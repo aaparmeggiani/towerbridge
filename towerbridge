@@ -1,0 +1,49 @@
+#!/bin/ash
+
+fetch() {
+    #curl -L https://towerbridge.org.uk/lift-times/  \
+    wget -q -O- https://towerbridge.org.uk/lift-times/  \
+    | pup 'table tr json{}' \
+    | jq -c '[.[1:] | .[] |{timestamp: .children[0] | .children[0] | .datetime, vessel: .children[3] | .text }]' \
+    | sed  -e "s/{/\n{/g" -e "s/]/\n]/" \
+    > lifts.json
+}
+
+lifts() {
+    cat lifts.json
+}
+
+nextlift() {
+    cat lifts.json | jq -Mc 'map(select( .timestamp  > (now | localtime | todate) )) | first';
+    exit 1;
+}
+
+changes() {
+    git log -U0 -- lifts.json | grep '^[D+-]' | grep -Ev '^(--- |\+\+\+ )'
+}
+
+usage() { 
+cat << USAGE
+Tower Bridge v1.0.0
+Usage: towerbridge [-lnh] 
+    -l    displays scheduled lifts
+    -n    displays next lift only
+    -h    help
+USAGE
+exit 1; 
+}
+
+while getopts :lnch opt; do
+    case $opt in
+        l) fetch; lifts ;;
+        n) fetch; nextlift ;;
+        c) fetch; changes ;;
+        h) usage ;;
+        *) usage ;;
+    esac
+done
+
+# lifts.json
+# past.json
+# all.json
+# stats
