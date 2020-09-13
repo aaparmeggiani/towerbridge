@@ -2,7 +2,7 @@ name: Update lifts.json
 
 on:
   schedule:
-  - cron: '*/30 * * * *'
+  - cron: '0 * * * *'
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
         date > date.txt
         MSG=$(date -Iminutes)
         echo "${{ github.token }}" | docker login https://docker.pkg.github.com -u ${GITHUB_ACTOR} --password-stdin
-        docker run  -v $(pwd):/data docker.pkg.github.com/aaparmeggiani/tower-bridge-lifts/tblifts:latest
+        docker run  -v $(pwd):/data docker.pkg.github.com/aaparmeggiani/towerbridge/towerbridge:latest
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add . 
