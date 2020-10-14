@@ -30,10 +30,10 @@ Usage: towerbridge [-lnh]
     -n    displays next lift only
     -h    help
 USAGE
-exit 1; 
 }
 
-while getopts :lnch opt; do
+if [ $# -eq 0 ]; then usage; fi
+while getopts lnch opt; do
     case $opt in
         l) fetch; lifts ;;
         n) fetch; nextlift ;;
