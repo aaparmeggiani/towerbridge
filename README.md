@@ -7,7 +7,7 @@ This repo parses data from the official Tower Bridge page &mdash; https://www.to
 https://aaparmeggiani.github.io/towerbridge/lifts.json 
 
 ## Notes
-- Updated hourly, with a small drift between schedule and execution by [github actions](https://docs.github.com/en/free-pro-team@latest/actions).
+- Updated hourly, with a small delay between schedule/execution by [github actions](https://docs.github.com/en/free-pro-team@latest/actions).
 - Results mirror the official source. As past lifts are not deleted necessarily straight after they happen, the top of the list might not correspond to the next lift. 
 ## License
 
