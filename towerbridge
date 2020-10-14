@@ -4,7 +4,7 @@ fetch() {
     #curl -L https://towerbridge.org.uk/lift-times/  \
     wget -q -O- https://towerbridge.org.uk/lift-times/  \
     | pup 'table tr json{}' \
-    | jq -c '[.[1:] | .[] |{timestamp: .children[0] | .children[0] | .datetime, vessel: .children[3] | .text }]' \
+    | jq -c '[.[1:] | .[] |{timestamp: .children[0] | .children[0] | .datetime, vessel: .children[3] | .text, direction: .children[4] | .text | ascii_downcase}]' \
     | sed  -e "s/{/\n{/g" -e "s/]/\n]/" \
     > lifts.json
 }
