@@ -1,4 +1,6 @@
 [
+{"timestamp":"2020-12-08T15:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2020-12-08T15:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2020-12-09T07:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2020-12-09T08:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2020-12-09T13:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
