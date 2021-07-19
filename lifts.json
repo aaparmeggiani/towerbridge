@@ -1,12 +1,4 @@
 [
-{"timestamp":"2021-07-17T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-07-17T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2021-07-17T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-07-17T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2021-07-18T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-07-18T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2021-07-18T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-07-18T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-07-21T09:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-07-21T10:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-07-21T16:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
