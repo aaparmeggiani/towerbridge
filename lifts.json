@@ -1,15 +1,4 @@
 [
-{"timestamp":"2021-07-31T08:00:00Z","vessel":"Sailing Barge Ardwina","direction":"up river"},
-{"timestamp":"2021-07-31T11:15:00Z","vessel":"Sailing Barge Ardwina","direction":"down river"},
-{"timestamp":"2021-07-31T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-07-31T16:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-07-31T17:00:00Z","vessel":"Sailing Yacht Arun Martlet","direction":"up river"},
-{"timestamp":"2021-07-31T17:00:00Z","vessel":"Sailing Yacht Two Tails","direction":"up river"},
-{"timestamp":"2021-07-31T18:45:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
-{"timestamp":"2021-07-31T18:45:00Z","vessel":"Sailing Yacht Arun Martlet","direction":"down river"},
-{"timestamp":"2021-07-31T18:45:00Z","vessel":"Sailing Yacht Two Tails","direction":"down river"},
-{"timestamp":"2021-07-31T20:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2021-07-31T20:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-08-08T13:45:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2021-08-08T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2021-08-08T19:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
@@ -48,5 +37,6 @@
 {"timestamp":"2021-09-25T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-10-16T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-10-16T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2021-10-16T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2021-10-16T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2021-10-16T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
