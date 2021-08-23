@@ -1,8 +1,4 @@
 [
-{"timestamp":"2021-08-22T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-08-22T14:30:00Z","vessel":"Sailing Yacht Wenimbi","direction":"up river"},
-{"timestamp":"2021-08-22T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2021-08-22T15:15:00Z","vessel":"Sailing Yacht Wenimbi","direction":"down river"},
 {"timestamp":"2021-08-25T10:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-08-25T11:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-08-25T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
