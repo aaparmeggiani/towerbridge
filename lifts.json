@@ -1,7 +1,5 @@
 [
-{"timestamp":"2021-08-27T16:15:00Z","vessel":"Motor Yacht Phoenix","direction":"up river"},
 {"timestamp":"2021-08-27T16:45:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
-{"timestamp":"2021-08-27T16:45:00Z","vessel":"Motor Yacht Phoenix","direction":"down river"},
 {"timestamp":"2021-08-27T17:15:00Z","vessel":"Vessel","direction":"up river"},
 {"timestamp":"2021-08-27T17:15:00Z","vessel":"Marine Tugboat Christine","direction":"up river"},
 {"timestamp":"2021-08-27T17:45:00Z","vessel":"Marine Tugboat Christine","direction":"down river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2021-09-17T12:00:00Z","vessel":"Sailing Barge Lady Daphne","direction":"up river"},
 {"timestamp":"2021-09-17T12:45:00Z","vessel":"Sailing Barge Lady Daphne","direction":"down river"},
 {"timestamp":"2021-09-17T15:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-09-17T16:30:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2021-09-17T16:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2021-09-19T09:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2021-09-19T10:30:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
