@@ -3,8 +3,6 @@
 {"timestamp":"2021-09-01T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2021-09-01T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2021-09-01T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2021-09-02T09:30:00Z","vessel":"Motor Yacht Phoenix","direction":"up river"},
-{"timestamp":"2021-09-02T10:00:00Z","vessel":"Motor Yacht Phoenix","direction":"down river"},
 {"timestamp":"2021-09-03T15:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-09-03T16:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-09-03T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -39,8 +37,6 @@
 {"timestamp":"2021-09-19T10:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-09-19T16:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-09-19T17:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2021-09-22T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2021-09-22T22:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2021-09-25T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-09-25T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-09-25T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
@@ -48,5 +44,9 @@
 {"timestamp":"2021-09-25T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2021-09-25T19:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2021-09-25T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2021-09-25T22:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2021-09-25T22:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2021-09-26T06:15:00Z","vessel":"Sailing Barge Lady Daphne","direction":"up river"},
+{"timestamp":"2021-09-26T07:00:00Z","vessel":"Sailing Barge Lady Daphne","direction":"down river"},
+{"timestamp":"2021-09-26T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2021-09-26T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
