@@ -1,8 +1,4 @@
 [
-{"timestamp":"2021-09-23T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2021-09-23T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2021-09-23T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2021-09-23T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2021-09-25T06:00:00Z","vessel":"Sailing Barge Ardwina","direction":"up river"},
 {"timestamp":"2021-09-25T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-09-25T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
