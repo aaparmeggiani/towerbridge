@@ -1,9 +1,5 @@
 [
-{"timestamp":"2021-09-28T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2021-09-28T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2021-09-28T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2021-09-28T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2021-09-29T18:45:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
+{"timestamp":"2021-09-30T12:45:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2021-09-30T17:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-09-30T17:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-09-30T19:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
