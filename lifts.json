@@ -1,6 +1,14 @@
 [
 {"timestamp":"2021-10-05T11:15:00Z","vessel":"Motor Yacht Challenger 2","direction":"up river"},
 {"timestamp":"2021-10-05T11:45:00Z","vessel":"Motor Yacht Challenger 2","direction":"down river"},
+{"timestamp":"2021-10-07T08:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2021-10-07T09:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2021-10-07T15:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2021-10-07T16:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2021-10-10T16:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2021-10-10T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2021-10-10T20:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2021-10-10T21:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2021-10-13T18:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2021-10-16T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-10-16T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
@@ -12,5 +20,6 @@
 {"timestamp":"2021-10-17T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2021-10-17T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-10-23T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
-{"timestamp":"2021-10-29T19:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"}
+{"timestamp":"2021-10-29T19:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
+{"timestamp":"2021-11-11T10:20:00Z","vessel":"Motor Vessel Havengore","direction":"up river"}
 ]
