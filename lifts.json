@@ -25,6 +25,10 @@
 {"timestamp":"2021-10-16T23:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2021-10-23T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2021-10-29T19:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
+{"timestamp":"2021-10-30T06:30:00Z","vessel":"Maintenace Lift","direction":"up river"},
+{"timestamp":"2021-10-30T07:00:00Z","vessel":"Maintenace Lift","direction":"up river"},
+{"timestamp":"2021-10-30T08:00:00Z","vessel":"Maintenace Lift","direction":"up river"},
+{"timestamp":"2021-10-30T08:30:00Z","vessel":"Maintenace Lift","direction":"up river"},
 {"timestamp":"2021-11-11T10:20:00Z","vessel":"Motor Vessel Havengore","direction":"up river"},
 {"timestamp":"2021-12-31T23:30:00Z","vessel":"PS Dixie Queen","direction":"up river"},
 {"timestamp":"2022-01-01T00:30:00Z","vessel":"PS Dixie Queen","direction":"down river"}
