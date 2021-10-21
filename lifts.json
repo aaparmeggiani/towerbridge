@@ -8,6 +8,7 @@
 {"timestamp":"2021-10-31T08:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2021-10-31T08:30:00Z","vessel":"Maintenance Lift","direction":"down river"},
 {"timestamp":"2021-10-31T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2021-10-31T23:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2021-11-04T16:30:00Z","vessel":"SB Will","direction":"up river"},
 {"timestamp":"2021-11-04T17:15:00Z","vessel":"SB Will","direction":"down river"},
 {"timestamp":"2021-11-11T10:20:00Z","vessel":"Motor Vessel Havengore","direction":"up river"},
