@@ -1,6 +1,4 @@
 [
-{"timestamp":"2021-10-26T10:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-10-26T10:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2021-10-30T06:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2021-10-30T07:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2021-10-30T08:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
