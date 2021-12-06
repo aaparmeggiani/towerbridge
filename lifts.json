@@ -1,9 +1,4 @@
 [
-{"timestamp":"2021-12-05T10:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-12-05T11:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2021-12-05T12:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2021-12-05T13:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2021-12-06T13:00:00Z","vessel":"Maintenace Lift","direction":"up river"},
 {"timestamp":"2021-12-06T16:00:00Z","vessel":"Maintenance Lift","direction":"down river"},
 {"timestamp":"2021-12-07T10:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2021-12-07T11:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
