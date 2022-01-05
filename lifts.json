@@ -1,6 +1,4 @@
 [
-{"timestamp":"2022-01-02T12:30:00Z","vessel":"Good Dog","direction":"up river"},
-{"timestamp":"2022-01-02T13:00:00Z","vessel":"Good Dog","direction":"down river"},
 {"timestamp":"2022-01-05T20:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-01-05T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-01-05T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
