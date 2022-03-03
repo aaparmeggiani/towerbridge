@@ -1,6 +1,4 @@
 [
-{"timestamp":"2022-03-03T10:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
-{"timestamp":"2022-03-03T10:45:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2022-03-03T15:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2022-03-17T12:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-03-17T13:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
