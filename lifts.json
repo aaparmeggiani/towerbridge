@@ -9,6 +9,8 @@
 {"timestamp":"2022-03-19T14:00:00Z","vessel":"Sailing Yacht Good Dog","direction":"down river"},
 {"timestamp":"2022-03-20T14:00:00Z","vessel":"Sailing Yacht Good Dog","direction":"up river"},
 {"timestamp":"2022-03-20T14:30:00Z","vessel":"Sailing Yacht Good Dog","direction":"down river"},
+{"timestamp":"2022-03-27T12:15:00Z","vessel":"Sailing Barge Lady Daphne","direction":"up river"},
+{"timestamp":"2022-03-27T13:00:00Z","vessel":"Sailing Barge Lady Daphne","direction":"down river"},
 {"timestamp":"2022-04-02T13:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-04-02T13:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-04-02T17:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
