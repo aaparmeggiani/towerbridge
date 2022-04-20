@@ -15,6 +15,7 @@
 {"timestamp":"2022-04-27T23:45:00Z","vessel":"Motor Vessel Hamburg","direction":"down river"},
 {"timestamp":"2022-04-28T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-04-28T16:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2022-04-30T12:45:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2022-05-05T16:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-05-05T17:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-05-05T20:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
@@ -47,6 +48,5 @@
 {"timestamp":"2022-06-12T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-06-15T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-06-15T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2022-06-15T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-15T22:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2022-06-15T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
 ]
