@@ -8,6 +8,7 @@
 {"timestamp":"2022-04-23T05:30:00Z","vessel":"Marine Tugboat RT Peter","direction":"down river"},
 {"timestamp":"2022-04-23T14:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-04-23T14:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2022-04-23T19:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2022-04-24T17:45:00Z","vessel":"Marine Tugboat (MTS) RT Ambition","direction":"up river"},
 {"timestamp":"2022-04-24T17:45:00Z","vessel":"Marine Tugboat RT Peter","direction":"up river"},
 {"timestamp":"2022-04-24T18:30:00Z","vessel":"Motor Vessel Le Champlain","direction":"down river"},
@@ -47,6 +48,5 @@
 {"timestamp":"2022-06-11T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-06-11T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-06-12T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2022-06-12T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2022-06-12T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2022-06-12T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
