@@ -1,7 +1,4 @@
 [
-{"timestamp":"2022-04-24T17:45:00Z","vessel":"Marine Tugboat (MTS) RT Ambition","direction":"up river"},
-{"timestamp":"2022-04-24T17:45:00Z","vessel":"Marine Tugboat RT Peter","direction":"up river"},
-{"timestamp":"2022-04-24T18:30:00Z","vessel":"Motor Vessel Le Champlain","direction":"down river"},
 {"timestamp":"2022-04-26T23:15:00Z","vessel":"Motor Vessel Hamburg","direction":"up river"},
 {"timestamp":"2022-04-27T14:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2022-04-27T23:45:00Z","vessel":"Motor Vessel Hamburg","direction":"down river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2022-06-15T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-06-15T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-06-15T22:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2022-06-16T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
+{"timestamp":"2022-06-16T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2022-06-16T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2022-06-17T22:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2022-06-17T22:59:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
