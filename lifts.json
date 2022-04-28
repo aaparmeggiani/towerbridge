@@ -1,7 +1,4 @@
 [
-{"timestamp":"2022-04-27T23:00:00Z","vessel":"Marine Tugboat (MTS) RT Ambition","direction":"up river"},
-{"timestamp":"2022-04-27T23:45:00Z","vessel":"Motor Vessel Hamburg","direction":"down river"},
-{"timestamp":"2022-04-27T23:45:00Z","vessel":"Marine Tugboat (MTS) RT Ambition","direction":"down river"},
 {"timestamp":"2022-04-28T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-04-28T16:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-04-30T12:45:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2022-06-11T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-06-11T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-06-12T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2022-06-12T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2022-06-12T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2022-06-12T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2022-06-12T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2022-06-15T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
 ]
