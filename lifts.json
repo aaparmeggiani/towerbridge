@@ -25,6 +25,11 @@
 {"timestamp":"2022-05-28T12:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-05-28T15:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-05-28T15:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2022-05-29T15:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2022-05-30T10:15:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2022-05-30T15:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2022-05-31T13:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2022-05-31T17:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2022-06-06T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-06-06T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-06-06T18:30:00Z","vessel":"Motor Tanker Fure Vinga","direction":"up river"},
@@ -43,10 +48,5 @@
 {"timestamp":"2022-06-12T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-06-12T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-06-12T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2022-06-15T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-15T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2022-06-15T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-15T22:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2022-06-16T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-16T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2022-06-15T10:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"}
 ]
