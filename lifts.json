@@ -1,7 +1,7 @@
 [
 {"timestamp":"2022-06-04T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2022-06-06T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-06T17:45:00Z","vessel":"Marine Tug Switzer London/Bootle","direction":"up river"},
+{"timestamp":"2022-06-06T17:30:00Z","vessel":"Marine Tug Switzer London/Bootle","direction":"up river"},
 {"timestamp":"2022-06-06T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-06-06T18:30:00Z","vessel":"Motor Tanker Fure Vinga","direction":"up river"},
 {"timestamp":"2022-06-06T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
