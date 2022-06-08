@@ -1,8 +1,4 @@
 [
-{"timestamp":"2022-06-07T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2022-06-07T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2022-06-08T05:45:00Z","vessel":"Marine Tug Switzer London/Bootle","direction":"up river"},
-{"timestamp":"2022-06-08T06:30:00Z","vessel":"Motor Tanker Fure Vinga","direction":"down river"},
 {"timestamp":"2022-06-08T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-06-08T16:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-06-08T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -48,5 +44,9 @@
 {"timestamp":"2022-06-17T16:15:00Z","vessel":"SB Gladys","direction":"down river"},
 {"timestamp":"2022-06-17T22:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-06-17T22:59:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2022-06-18T03:45:00Z","vessel":"Motor Vessel World Navigator","direction":"down river"}
+{"timestamp":"2022-06-18T03:45:00Z","vessel":"Motor Vessel World Navigator","direction":"down river"},
+{"timestamp":"2022-06-18T05:15:00Z","vessel":"Motor Vessel Silver Wind","direction":"up river"},
+{"timestamp":"2022-06-18T17:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
+{"timestamp":"2022-06-18T22:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2022-06-18T22:59:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
