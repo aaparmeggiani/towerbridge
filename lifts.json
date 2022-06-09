@@ -1,13 +1,4 @@
 [
-{"timestamp":"2022-06-08T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2022-06-08T16:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2022-06-08T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-08T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2022-06-08T19:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2022-06-08T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-08T21:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2022-06-08T22:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2022-06-09T06:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2022-06-11T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-06-11T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-06-11T11:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
@@ -48,5 +39,14 @@
 {"timestamp":"2022-06-18T05:15:00Z","vessel":"Motor Vessel Silver Wind","direction":"up river"},
 {"timestamp":"2022-06-18T17:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2022-06-18T22:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-18T22:59:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2022-06-18T22:59:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2022-06-19T16:45:00Z","vessel":"Motor Vessel Silver Wind","direction":"down river"},
+{"timestamp":"2022-06-21T09:00:00Z","vessel":"SB Gladys","direction":"up river"},
+{"timestamp":"2022-06-21T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2022-06-21T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2022-06-21T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2022-06-21T22:59:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2022-06-22T08:45:00Z","vessel":"Japanese Ship Kashima","direction":"up river"},
+{"timestamp":"2022-06-22T17:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2022-06-22T18:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
