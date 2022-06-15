@@ -1,10 +1,4 @@
 [
-{"timestamp":"2022-06-14T15:00:00Z","vessel":"Motor Yacht Phoenix","direction":"up river"},
-{"timestamp":"2022-06-14T15:30:00Z","vessel":"Motor Yacht Phoenix","direction":"down river"},
-{"timestamp":"2022-06-14T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-14T19:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2022-06-14T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-06-14T23:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-06-15T10:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2022-06-15T15:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2022-06-15T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -48,5 +42,11 @@
 {"timestamp":"2022-06-24T22:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2022-06-25T10:15:00Z","vessel":"Vessel","direction":"down river"},
 {"timestamp":"2022-06-25T12:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
-{"timestamp":"2022-06-25T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2022-06-25T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2022-06-25T16:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2022-06-27T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2022-06-27T23:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2022-06-28T18:15:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2022-06-28T21:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2022-06-28T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
 ]
