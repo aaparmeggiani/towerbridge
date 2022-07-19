@@ -1,9 +1,4 @@
 [
-{"timestamp":"2022-07-19T04:45:00Z","vessel":"Marine Tugboat Svitzer London","direction":"up river"},
-{"timestamp":"2022-07-19T04:45:00Z","vessel":"Marine Tugboat Svitzer Bootle","direction":"up river"},
-{"timestamp":"2022-07-19T05:15:00Z","vessel":"Vessel","direction":"down river"},
-{"timestamp":"2022-07-19T05:30:00Z","vessel":"Marine Tugboat Svitzer London","direction":"down river"},
-{"timestamp":"2022-07-19T05:30:00Z","vessel":"Marine Tugboat Svitzer Bootle","direction":"down river"},
 {"timestamp":"2022-07-20T08:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2022-07-20T17:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-07-20T18:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
@@ -48,5 +43,10 @@
 {"timestamp":"2022-08-13T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-08-14T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-08-14T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2022-08-14T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2022-08-14T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2022-08-14T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2022-08-19T17:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2022-08-19T18:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2022-08-19T22:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2022-08-19T23:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
