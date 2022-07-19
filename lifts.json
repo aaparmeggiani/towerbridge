@@ -27,8 +27,12 @@
 {"timestamp":"2022-07-26T19:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-07-26T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-07-26T22:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2022-07-28T20:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2022-07-28T21:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-07-30T16:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2022-07-30T16:15:00Z","vessel":"Motor Vessel Hebridean Princess","direction":"up river"},
 {"timestamp":"2022-07-30T16:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2022-07-31T15:45:00Z","vessel":"Motor Vessel Hebridean Princess","direction":"down river"},
 {"timestamp":"2022-08-03T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2022-08-03T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2022-08-04T09:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
@@ -44,9 +48,5 @@
 {"timestamp":"2022-08-14T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2022-08-14T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-08-14T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2022-08-14T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2022-08-19T17:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-08-19T18:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2022-08-19T22:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-08-19T23:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2022-08-14T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
