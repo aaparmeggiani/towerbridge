@@ -1,4 +1,4 @@
-FROM golang:alpine as builder
+FROM golang:1.17.13-alpine as builder
 RUN apk add -u git tzdata
 RUN go get github.com/ericchiang/pup
 
