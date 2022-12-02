@@ -1,6 +1,4 @@
 [
-{"timestamp":"2022-12-01T16:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2022-12-01T17:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2022-12-03T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-12-03T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-12-03T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
