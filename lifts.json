@@ -1,13 +1,4 @@
 [
-{"timestamp":"2022-12-09T15:00:00Z","vessel":"Marine Tugboat (MTS) RT Ambition","direction":"up river"},
-{"timestamp":"2022-12-09T15:00:00Z","vessel":"Marine Tugboat RT Peter","direction":"up river"},
-{"timestamp":"2022-12-09T15:00:00Z","vessel":"Vessel","direction":"up river"},
-{"timestamp":"2022-12-09T15:45:00Z","vessel":"Marine Tugboat (MTS) RT Ambition","direction":"down river"},
-{"timestamp":"2022-12-09T15:45:00Z","vessel":"Marine Tugboat RT Peter","direction":"down river"},
-{"timestamp":"2022-12-09T16:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2022-12-09T17:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2022-12-09T19:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-12-09T19:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-12-10T00:01:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2022-12-10T00:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-12-10T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
