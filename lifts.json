@@ -1,6 +1,4 @@
 [
-{"timestamp":"2022-12-15T23:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2022-12-15T23:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2022-12-16T19:15:00Z","vessel":"Vessel","direction":"up river"},
 {"timestamp":"2022-12-16T19:15:00Z","vessel":"Marine Tugboat RT Peter","direction":"up river"},
 {"timestamp":"2022-12-16T19:45:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
