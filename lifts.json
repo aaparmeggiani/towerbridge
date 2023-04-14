@@ -29,6 +29,8 @@
 {"timestamp":"2023-05-04T11:15:00Z","vessel":"Motor Vessel Le Bellot","direction":"down river"},
 {"timestamp":"2023-05-05T11:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-05-05T11:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-05-07T03:15:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
+{"timestamp":"2023-05-08T15:45:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
 {"timestamp":"2023-05-10T05:15:00Z","vessel":"Motor Vessel Silver Wind","direction":"up river"},
 {"timestamp":"2023-05-12T05:45:00Z","vessel":"Motor Vessel Silver Wind","direction":"down river"},
 {"timestamp":"2023-05-13T19:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
@@ -46,7 +48,5 @@
 {"timestamp":"2023-06-16T22:15:00Z","vessel":"Motor Vessel NG Explorer","direction":"down river"},
 {"timestamp":"2023-06-24T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-06-24T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-06-24T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-06-24T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-06-29T09:30:00Z","vessel":"PS Dixie Queen","direction":"up river"}
+{"timestamp":"2023-06-24T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
