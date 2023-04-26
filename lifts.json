@@ -1,6 +1,4 @@
 [
-{"timestamp":"2023-04-26T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-04-26T15:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-04-27T17:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2023-04-27T17:30:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2023-04-28T09:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2023-06-16T22:15:00Z","vessel":"Motor Vessel NG Explorer","direction":"down river"},
 {"timestamp":"2023-06-24T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-06-24T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-06-24T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2023-06-24T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2023-06-24T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-06-29T09:30:00Z","vessel":"PS Dixie Queen","direction":"up river"}
 ]
