@@ -42,11 +42,11 @@
 {"timestamp":"2023-05-21T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2023-05-23T09:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-27T18:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
+{"timestamp":"2023-05-28T18:15:00Z","vessel":"Motor Vessel Le Champlain","direction":"up river"},
+{"timestamp":"2023-05-29T20:45:00Z","vessel":"Motor Vessel Le Champlain","direction":"down river"},
 {"timestamp":"2023-06-16T04:15:00Z","vessel":"Motor Vessel NG Explorer","direction":"up river"},
 {"timestamp":"2023-06-16T22:15:00Z","vessel":"Motor Vessel NG Explorer","direction":"down river"},
 {"timestamp":"2023-06-24T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-06-24T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-06-24T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-06-24T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-06-29T09:30:00Z","vessel":"PS Dixie Queen","direction":"up river"}
+{"timestamp":"2023-06-24T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
