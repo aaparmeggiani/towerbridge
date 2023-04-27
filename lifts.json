@@ -43,10 +43,10 @@
 {"timestamp":"2023-05-22T13:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-23T09:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-23T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
-{"timestamp":"2023-05-27T18:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
-{"timestamp":"2023-05-28T18:15:00Z","vessel":"Motor Vessel Le Champlain","direction":"up river"},
-{"timestamp":"2023-05-29T20:45:00Z","vessel":"Motor Vessel Le Champlain","direction":"down river"},
-{"timestamp":"2023-06-16T04:15:00Z","vessel":"Motor Vessel NG Explorer","direction":"up river"},
-{"timestamp":"2023-06-16T22:15:00Z","vessel":"Motor Vessel NG Explorer","direction":"down river"},
-{"timestamp":"2023-06-24T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2023-05-24T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2023-05-24T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2023-05-25T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2023-05-25T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2023-05-26T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2023-05-27T18:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"}
 ]
