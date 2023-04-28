@@ -19,10 +19,12 @@
 {"timestamp":"2023-05-04T10:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2023-05-04T11:15:00Z","vessel":"Motor Vessel Le Bellot","direction":"down river"},
 {"timestamp":"2023-05-04T15:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2023-05-04T23:45:00Z","vessel":"Motor Vessel Le Dumont D&#39;Urville","direction":"up river"},
 {"timestamp":"2023-05-05T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-05T10:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2023-05-05T11:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-05-05T11:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-05-06T00:15:00Z","vessel":"Motor Vessel Le Dumont D&#39;Urville","direction":"down river"},
 {"timestamp":"2023-05-07T03:15:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
 {"timestamp":"2023-05-08T15:45:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
 {"timestamp":"2023-05-10T05:15:00Z","vessel":"Motor Vessel Silver Wind","direction":"up river"},
@@ -46,7 +48,5 @@
 {"timestamp":"2023-05-24T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-25T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-25T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
-{"timestamp":"2023-05-26T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
-{"timestamp":"2023-05-27T18:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
-{"timestamp":"2023-05-28T18:15:00Z","vessel":"Motor Vessel Le Champlain","direction":"up river"}
+{"timestamp":"2023-05-26T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"}
 ]
