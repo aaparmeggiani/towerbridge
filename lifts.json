@@ -1,5 +1,4 @@
 [
-{"timestamp":"2023-05-03T14:20:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2023-05-03T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2023-05-03T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2023-05-04T10:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
@@ -16,7 +15,11 @@
 {"timestamp":"2023-05-06T13:00:00Z","vessel":"Vessel","direction":"up river"},
 {"timestamp":"2023-05-06T14:30:00Z","vessel":"Vessel","direction":"down river"},
 {"timestamp":"2023-05-07T03:15:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
+{"timestamp":"2023-05-07T03:15:00Z","vessel":"Marine Tugboat RT Peter","direction":"up river"},
+{"timestamp":"2023-05-07T04:00:00Z","vessel":"Marine Tugboat RT Peter","direction":"down river"},
+{"timestamp":"2023-05-08T15:15:00Z","vessel":"Marine Tugboat RT Peter","direction":"up river"},
 {"timestamp":"2023-05-08T15:45:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
+{"timestamp":"2023-05-08T15:45:00Z","vessel":"Marine Tugboat RT Peter","direction":"down river"},
 {"timestamp":"2023-05-10T05:15:00Z","vessel":"Motor Vessel Silver Wind","direction":"up river"},
 {"timestamp":"2023-05-10T05:15:00Z","vessel":"Marine Tugboat Svitzer Adira","direction":"up river"},
 {"timestamp":"2023-05-10T06:00:00Z","vessel":"Marine Tugboat Svitzer Adira","direction":"down river"},
@@ -45,8 +48,5 @@
 {"timestamp":"2023-05-25T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-26T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-27T18:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
-{"timestamp":"2023-05-28T18:15:00Z","vessel":"Motor Vessel Le Champlain","direction":"up river"},
-{"timestamp":"2023-05-29T20:45:00Z","vessel":"Motor Vessel Le Champlain","direction":"down river"},
-{"timestamp":"2023-06-03T11:45:41Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-06-03T12:30:44Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2023-05-28T18:15:00Z","vessel":"Motor Vessel Le Champlain","direction":"up river"}
 ]
