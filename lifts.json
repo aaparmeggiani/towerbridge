@@ -1,6 +1,4 @@
 [
-{"timestamp":"2023-05-02T21:45:00Z","vessel":"Motor Vessel Le Bellot","direction":"up river"},
-{"timestamp":"2023-05-02T22:15:00Z","vessel":"Marine Tugboat RT Peter","direction":"down river"},
 {"timestamp":"2023-05-03T14:20:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2023-05-03T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2023-05-03T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2023-06-03T12:30:44Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-06-10T13:30:01Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-06-10T14:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-06-14T17:45:21Z","vessel":"Sailing Barge Gladys","direction":"down river"}
+{"timestamp":"2023-06-14T17:45:21Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2023-06-14T21:00:56Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2023-06-16T04:15:00Z","vessel":"Motor Vessel NG Explorer","direction":"up river"}
 ]
