@@ -1,6 +1,4 @@
 [
-{"timestamp":"2023-05-04T11:15:00Z","vessel":"Motor Vessel Le Bellot","direction":"down river"},
-{"timestamp":"2023-05-04T15:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2023-05-04T23:45:00Z","vessel":"Motor Vessel Le Dumont D&#39;Urville","direction":"up river"},
 {"timestamp":"2023-05-04T23:45:00Z","vessel":"Marine Tugboat RT Peter","direction":"up river"},
 {"timestamp":"2023-05-05T00:30:00Z","vessel":"Marine Tugboat RT Peter","direction":"down river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2023-05-22T13:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-23T09:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-23T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
-{"timestamp":"2023-05-24T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"}
+{"timestamp":"2023-05-24T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2023-05-24T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2023-05-25T09:00:00Z","vessel":"Maintenance Lift","direction":"up river"}
 ]
