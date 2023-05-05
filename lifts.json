@@ -1,5 +1,4 @@
 [
-{"timestamp":"2023-05-05T11:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-05-06T00:15:00Z","vessel":"Motor Vessel Le Dumont D&#39;Urville","direction":"down river"},
 {"timestamp":"2023-05-06T13:00:00Z","vessel":"Vessel","direction":"up river"},
 {"timestamp":"2023-05-06T14:30:00Z","vessel":"Vessel","direction":"down river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2023-05-27T18:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2023-05-28T18:15:00Z","vessel":"Motor Vessel Le Champlain","direction":"up river"},
 {"timestamp":"2023-05-29T20:45:00Z","vessel":"Motor Vessel Le Champlain","direction":"down river"},
-{"timestamp":"2023-06-03T11:45:41Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2023-06-03T11:45:41Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2023-06-03T12:30:44Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
