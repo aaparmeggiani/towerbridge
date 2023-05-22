@@ -11,7 +11,6 @@
 {"timestamp":"2023-05-24T10:45:00Z","vessel":"Vessel","direction":"down river"},
 {"timestamp":"2023-05-24T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-25T06:45:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2023-05-25T14:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2023-05-25T14:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2023-05-25T17:20:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2023-05-25T17:50:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2023-06-16T09:45:00Z","vessel":"Motor Vessel NG Explorer","direction":"down river"},
 {"timestamp":"2023-06-21T17:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-06-21T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2023-06-21T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
+{"timestamp":"2023-06-21T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2023-06-21T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
