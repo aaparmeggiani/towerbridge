@@ -1,5 +1,4 @@
 [
-{"timestamp":"2023-05-27T18:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2023-05-28T17:45:00Z","vessel":"Motor Vessel Le Champlain","direction":"up river"},
 {"timestamp":"2023-05-28T17:45:00Z","vessel":"Marine Tugboat RT Peter","direction":"up river"},
 {"timestamp":"2023-05-28T18:30:00Z","vessel":"Marine Tugboat RT Peter","direction":"down river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2023-06-21T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-06-21T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-06-21T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2023-06-24T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2023-06-24T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2023-06-24T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
