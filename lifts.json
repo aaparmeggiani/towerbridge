@@ -1,8 +1,4 @@
 [
-{"timestamp":"2023-07-22T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-07-22T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-07-22T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-07-22T15:15:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2023-07-24T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-07-24T15:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-07-27T09:15:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
@@ -48,5 +44,9 @@
 {"timestamp":"2023-09-01T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-09-01T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-09-02T19:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-09-02T19:45:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2023-09-02T19:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-09-06T07:45:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2023-09-06T11:30:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2023-09-06T15:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2023-09-06T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
 ]
