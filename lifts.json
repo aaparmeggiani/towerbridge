@@ -1,5 +1,4 @@
 [
-{"timestamp":"2023-08-05T15:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2023-08-06T11:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-08-06T12:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-08-06T15:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2023-09-06T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-09-06T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-09-06T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2023-09-07T16:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
+{"timestamp":"2023-09-07T16:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2023-09-07T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"}
 ]
