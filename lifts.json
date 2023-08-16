@@ -1,6 +1,4 @@
 [
-{"timestamp":"2023-08-16T07:00:00Z","vessel":"Sailing Vessel Maiden","direction":"up river"},
-{"timestamp":"2023-08-16T07:50:00Z","vessel":"Sailing Vessel Maiden","direction":"down river"},
 {"timestamp":"2023-08-19T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2023-08-20T16:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2023-08-23T16:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2023-09-09T15:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-09-09T16:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-09-10T05:50:00Z","vessel":"Maintenance Lift","direction":"up river"},
-{"timestamp":"2023-09-10T07:20:00Z","vessel":"Maintenance Lift","direction":"up river"}
+{"timestamp":"2023-09-10T07:20:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2023-09-12T11:00:00Z","vessel":"Sailing Barge Edith May","direction":"up river"},
+{"timestamp":"2023-09-12T11:45:00Z","vessel":"Sailing Barge Edith May","direction":"down river"}
 ]
