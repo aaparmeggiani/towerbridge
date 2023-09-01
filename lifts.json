@@ -1,10 +1,4 @@
 [
-{"timestamp":"2023-09-01T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2023-09-01T18:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-09-01T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2023-09-01T18:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-09-01T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2023-09-01T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-09-02T12:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2023-09-02T13:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-09-02T13:15:00Z","vessel":"Motor Yacht Arctic Pride II","direction":"up river"},
@@ -48,5 +42,11 @@
 {"timestamp":"2023-09-14T15:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-09-14T16:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-09-14T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2023-09-14T17:30:00Z","vessel":"Sailing Barge Gladys","direction":"down river"}
+{"timestamp":"2023-09-14T17:30:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2023-09-14T20:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2023-09-14T20:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2023-09-14T21:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2023-09-14T21:30:00Z","vessel":"Motor Vessel Ocean Diva","direction":"up river"},
+{"timestamp":"2023-09-14T23:45:00Z","vessel":"Motor Vessel Ocean Diva","direction":"down river"},
+{"timestamp":"2023-09-15T05:15:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
