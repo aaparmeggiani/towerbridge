@@ -1,8 +1,4 @@
 [
-{"timestamp":"2023-09-06T11:30:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2023-09-06T14:00:00Z","vessel":"Sailing Yacht Nancy Blackett","direction":"up river"},
-{"timestamp":"2023-09-06T14:30:00Z","vessel":"Sailing Yacht Nancy Blackett","direction":"down river"},
-{"timestamp":"2023-09-06T15:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2023-09-06T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-09-06T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-09-06T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -41,12 +37,16 @@
 {"timestamp":"2023-09-14T21:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-09-14T21:30:00Z","vessel":"Motor Vessel Ocean Diva","direction":"up river"},
 {"timestamp":"2023-09-14T23:45:00Z","vessel":"Motor Vessel Ocean Diva","direction":"down river"},
-{"timestamp":"2023-09-15T05:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-09-15T05:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-09-15T08:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-09-15T09:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-09-15T14:30:00Z","vessel":"Vessel","direction":"up river"},
 {"timestamp":"2023-09-15T15:00:00Z","vessel":"Vessel","direction":"down river"},
+{"timestamp":"2023-09-15T18:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2023-09-15T19:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-09-16T14:15:00Z","vessel":"Trinity House Vessel Galatea","direction":"down river"},
-{"timestamp":"2023-09-16T22:30:00Z","vessel":"Motor Vessel Ocean Diva","direction":"up river"}
+{"timestamp":"2023-09-16T22:30:00Z","vessel":"Motor Vessel Ocean Diva","direction":"up river"},
+{"timestamp":"2023-09-16T23:45:00Z","vessel":"Motor Vessel Ocean Diva","direction":"down river"},
+{"timestamp":"2023-09-18T14:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2023-09-18T16:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2023-09-18T20:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"}
 ]
