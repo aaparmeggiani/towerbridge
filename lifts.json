@@ -1,8 +1,4 @@
 [
-{"timestamp":"2023-09-09T11:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-09-09T12:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-09-09T15:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-09-09T16:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-09-12T10:30:00Z","vessel":"Sailing Vessel Tenacious","direction":"up river"},
 {"timestamp":"2023-09-12T11:00:00Z","vessel":"Sailing Barge Edith May","direction":"up river"},
 {"timestamp":"2023-09-12T11:00:00Z","vessel":"Sailing Vessel Tenacious","direction":"down river"},
@@ -48,5 +44,9 @@
 {"timestamp":"2023-09-22T18:15:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2023-09-22T21:30:00Z","vessel":"Motor Vessel Ocean Diva","direction":"up river"},
 {"timestamp":"2023-09-22T23:45:00Z","vessel":"Motor Vessel Ocean Diva","direction":"down river"},
-{"timestamp":"2023-09-23T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2023-09-23T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2023-09-23T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-09-23T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2023-09-23T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-09-23T18:50:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"}
 ]
