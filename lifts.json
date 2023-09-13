@@ -1,6 +1,4 @@
 [
-{"timestamp":"2023-09-13T11:45:00Z","vessel":"Sailing Barge Edith May","direction":"up river"},
-{"timestamp":"2023-09-13T12:30:00Z","vessel":"Sailing Barge Edith May","direction":"down river"},
 {"timestamp":"2023-09-14T12:15:00Z","vessel":"Sailing Barge Edith May","direction":"up river"},
 {"timestamp":"2023-09-14T12:15:00Z","vessel":"Sailing Barge Adieu","direction":"up river"},
 {"timestamp":"2023-09-14T13:00:00Z","vessel":"Sailing Barge Edith May","direction":"down river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2023-09-23T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-09-23T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-09-23T18:50:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
-{"timestamp":"2023-09-24T08:40:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"}
+{"timestamp":"2023-09-24T08:40:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
+{"timestamp":"2023-09-24T18:50:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
+{"timestamp":"2023-09-24T19:50:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"}
 ]
