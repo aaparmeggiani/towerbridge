@@ -1,6 +1,4 @@
 [
-{"timestamp":"2023-10-01T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2023-10-01T23:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-10-02T16:00:00Z","vessel":"Vessel","direction":"up river"},
 {"timestamp":"2023-10-02T19:10:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2023-10-03T08:30:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
@@ -31,8 +29,8 @@
 {"timestamp":"2023-10-10T23:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-10-13T01:45:00Z","vessel":"Motor Vessel Hanseatic Nature","direction":"up river"},
 {"timestamp":"2023-10-14T13:45:00Z","vessel":"Motor Vessel Hanseatic Nature","direction":"down river"},
-{"timestamp":"2023-10-15T16:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-10-15T17:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-10-15T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2023-10-15T16:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-10-15T19:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-10-15T20:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-10-19T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2023-10-28T12:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2023-10-28T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-10-28T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-11-18T10:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2023-11-18T10:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2023-11-18T11:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-11-18T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
