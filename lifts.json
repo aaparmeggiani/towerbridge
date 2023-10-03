@@ -1,5 +1,4 @@
 [
-{"timestamp":"2023-10-03T20:20:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2023-10-04T08:40:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
 {"timestamp":"2023-10-04T20:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-10-04T21:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2023-10-28T11:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-10-28T12:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2023-10-28T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-10-28T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2023-10-28T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-11-18T10:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
