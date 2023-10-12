@@ -1,6 +1,4 @@
 [
-{"timestamp":"2023-10-12T09:30:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
-{"timestamp":"2023-10-12T09:30:00Z","vessel":"Marine Tugboat VB Benelux","direction":"up river"},
 {"timestamp":"2023-10-12T10:15:00Z","vessel":"Multi Purpose Offshore Vessel RFA Proteus","direction":"down river"},
 {"timestamp":"2023-10-12T10:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2023-10-12T10:15:00Z","vessel":"Marine Tugboat VB Benelux","direction":"down river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2023-12-16T10:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-12-16T11:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-12-16T15:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-12-16T16:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2023-12-16T16:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2023-12-17T13:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2023-12-17T14:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
