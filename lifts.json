@@ -1,7 +1,4 @@
 [
-{"timestamp":"2023-10-13T01:45:00Z","vessel":"Motor Vessel Hanseatic Nature","direction":"up river"},
-{"timestamp":"2023-10-13T01:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
-{"timestamp":"2023-10-13T02:30:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2023-10-14T13:00:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
 {"timestamp":"2023-10-14T13:45:00Z","vessel":"Motor Vessel Hanseatic Nature","direction":"down river"},
 {"timestamp":"2023-10-14T13:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2023-12-02T23:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2023-12-03T00:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-12-03T01:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2023-12-15T13:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
+{"timestamp":"2023-12-15T13:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2023-12-15T14:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2023-12-15T16:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2023-12-15T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
