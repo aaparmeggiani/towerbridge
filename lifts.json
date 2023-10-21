@@ -1,7 +1,4 @@
 [
-{"timestamp":"2023-10-21T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2023-10-21T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2023-10-21T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-10-22T09:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2023-10-22T10:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2023-10-22T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2024-01-01T00:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-03-02T13:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2024-03-02T13:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2024-03-14T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
+{"timestamp":"2024-03-14T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-03-14T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-03-14T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-03-14T23:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
