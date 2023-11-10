@@ -1,5 +1,4 @@
 [
-{"timestamp":"2023-11-10T10:20:00Z","vessel":"Motor Vessel Havengore","direction":"up river"},
 {"timestamp":"2023-11-11T23:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2023-11-16T19:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2023-11-16T20:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2023-12-31T23:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2024-01-01T00:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-01-12T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-01-12T19:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2024-01-12T19:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-01-12T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
 ]
