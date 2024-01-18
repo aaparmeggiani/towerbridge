@@ -17,5 +17,13 @@
 {"timestamp":"2024-05-10T16:00:00Z","vessel":"Motor Vessel Le Champlain","direction":"up river"},
 {"timestamp":"2024-05-11T16:15:00Z","vessel":"Motor Vessel Le Champlain","direction":"down river"},
 {"timestamp":"2024-05-20T22:15:00Z","vessel":"Motor Ship Le Dumont D&#39;Urville","direction":"up river"},
-{"timestamp":"2024-05-22T00:15:00Z","vessel":"Motor Ship Le Dumont D&#39;Urville","direction":"down river"}
+{"timestamp":"2024-05-22T00:15:00Z","vessel":"Motor Ship Le Dumont D&#39;Urville","direction":"down river"},
+{"timestamp":"2024-07-12T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-07-12T19:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-07-12T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-07-12T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-08-02T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-08-02T19:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-08-02T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-08-02T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
