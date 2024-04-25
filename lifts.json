@@ -1,8 +1,4 @@
 [
-{"timestamp":"2024-04-25T12:45:00Z","vessel":"Sailing Barge Adieu","direction":"up river"},
-{"timestamp":"2024-04-25T13:30:00Z","vessel":"Sailing Barge Adieu","direction":"down river"},
-{"timestamp":"2024-04-25T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-04-25T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-04-27T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2024-04-27T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-04-27T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
@@ -48,5 +44,9 @@
 {"timestamp":"2024-06-08T19:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-06-08T20:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-06-09T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2024-06-09T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2024-06-09T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2024-06-09T13:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2024-06-09T13:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2024-06-09T14:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2024-06-10T15:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"}
 ]
