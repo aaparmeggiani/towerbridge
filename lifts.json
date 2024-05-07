@@ -1,5 +1,4 @@
 [
-{"timestamp":"2024-05-07T14:45:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-05-07T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-05-07T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-05-08T12:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
@@ -12,10 +11,10 @@
 {"timestamp":"2024-05-12T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2024-05-12T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-05-15T06:45:00Z","vessel":"Vessel","direction":"down river"},
-{"timestamp":"2024-05-15T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2024-05-15T20:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-05-16T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-05-16T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2024-05-17T07:15:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2024-05-17T07:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-05-17T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2024-05-17T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-05-18T06:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2024-06-09T14:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-06-10T15:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-06-10T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2024-06-10T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"}
+{"timestamp":"2024-06-10T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2024-06-11T17:30:00Z","vessel":"Motor Ship Hamburg","direction":"up river"}
 ]
