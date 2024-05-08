@@ -1,5 +1,4 @@
 [
-{"timestamp":"2024-05-08T12:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-05-10T16:45:00Z","vessel":"Motor Vessel Le Champlain","direction":"up river"},
 {"timestamp":"2024-05-11T05:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2024-05-11T15:15:00Z","vessel":"Motor Vessel Le Champlain","direction":"down river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2024-06-10T15:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-06-10T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-06-10T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2024-06-11T17:30:00Z","vessel":"Motor Ship Hamburg","direction":"up river"}
+{"timestamp":"2024-06-11T17:30:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
+{"timestamp":"2024-06-12T05:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"}
 ]
