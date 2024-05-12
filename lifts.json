@@ -1,9 +1,4 @@
 [
-{"timestamp":"2024-05-12T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
-{"timestamp":"2024-05-12T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-05-12T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2024-05-12T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-05-12T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-05-15T05:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
 {"timestamp":"2024-05-15T06:45:00Z","vessel":"Vessel","direction":"down river"},
 {"timestamp":"2024-05-15T06:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
@@ -48,5 +43,10 @@
 {"timestamp":"2024-06-10T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-06-11T17:30:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
 {"timestamp":"2024-06-12T05:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2024-06-12T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2024-06-12T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2024-06-12T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2024-06-12T16:45:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
+{"timestamp":"2024-06-13T11:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-06-13T12:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-06-13T15:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
 ]
