@@ -1,8 +1,4 @@
 [
-{"timestamp":"2024-05-15T16:30:00Z","vessel":"Motor Vessel World Navigator","direction":"up river"},
-{"timestamp":"2024-05-15T16:30:00Z","vessel":"Marine Tugboat Serviceman","direction":"up river"},
-{"timestamp":"2024-05-15T17:00:00Z","vessel":"Marine Tugboat Serviceman","direction":"down river"},
-{"timestamp":"2024-05-15T20:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-05-16T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-05-16T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-05-17T07:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
@@ -48,5 +44,9 @@
 {"timestamp":"2024-06-12T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-06-12T16:45:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
 {"timestamp":"2024-06-13T11:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-06-13T12:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2024-06-13T12:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-06-13T15:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-06-13T16:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-06-18T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2024-06-18T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
