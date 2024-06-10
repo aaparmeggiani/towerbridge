@@ -1,7 +1,4 @@
 [
-{"timestamp":"2024-06-10T15:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2024-06-10T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2024-06-10T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-06-11T05:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-06-11T14:45:00Z","vessel":"Motor Vessel World Voyager","direction":"down river"},
 {"timestamp":"2024-06-11T17:30:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2024-06-29T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2024-06-29T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-06-29T11:15:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2024-06-29T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2024-06-29T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2024-06-29T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2024-06-29T15:15:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2024-06-29T17:30:00Z","vessel":"Sailing Barge Gladys","direction":"down river"}
 ]
