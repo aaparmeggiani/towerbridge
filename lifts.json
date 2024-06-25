@@ -1,5 +1,4 @@
 [
-{"timestamp":"2024-06-25T20:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-06-26T05:15:00Z","vessel":"Passenger Ship St Helena","direction":"up river"},
 {"timestamp":"2024-06-26T05:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
 {"timestamp":"2024-06-26T05:15:00Z","vessel":"Marine Tugboat VB Benelux","direction":"up river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2024-07-06T16:45:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2024-07-06T17:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-07-07T14:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-07-07T15:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2024-07-07T15:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-07-07T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
 ]
