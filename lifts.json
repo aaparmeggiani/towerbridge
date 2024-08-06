@@ -1,9 +1,9 @@
 [
-{"timestamp":"2024-08-06T12:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2024-08-06T13:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2024-08-07T16:15:00Z","vessel":"Vessel","direction":"up river"},
 {"timestamp":"2024-08-07T16:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
 {"timestamp":"2024-08-07T16:15:00Z","vessel":"Marine Tugboat VB Benelux","direction":"up river"},
+{"timestamp":"2024-08-07T16:15:00Z","vessel":"Cable Ship Scheldemond I","direction":"up river"},
 {"timestamp":"2024-08-07T16:45:00Z","vessel":"Marine Tugboat VB Benelux","direction":"down river"},
 {"timestamp":"2024-08-07T16:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2024-08-07T19:00:00Z","vessel":"Cable Ship Scheldemond I","direction":"down river"},
