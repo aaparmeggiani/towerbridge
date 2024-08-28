@@ -1,6 +1,4 @@
 [
-{"timestamp":"2024-08-28T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2024-08-28T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-08-29T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-08-29T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-08-30T08:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2024-09-15T21:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2024-09-16T13:40:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-09-16T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2024-09-17T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"}
+{"timestamp":"2024-09-17T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2024-09-17T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
+{"timestamp":"2024-09-18T12:00:00Z","vessel":"Sailing Barge Adieu","direction":"up river"}
 ]
