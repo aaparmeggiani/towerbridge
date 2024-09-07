@@ -1,9 +1,4 @@
 [
-{"timestamp":"2024-09-07T11:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2024-09-07T11:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2024-09-07T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
-{"timestamp":"2024-09-07T18:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2024-09-07T18:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-09-09T06:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-09-09T11:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-09-09T15:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
@@ -48,5 +43,10 @@
 {"timestamp":"2024-09-21T15:15:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2024-09-22T06:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2024-09-22T07:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
-{"timestamp":"2024-09-22T11:00:00Z","vessel":"Sailing Vessel Blue Mermaid","direction":"up river"}
+{"timestamp":"2024-09-22T11:00:00Z","vessel":"Sailing Vessel Blue Mermaid","direction":"up river"},
+{"timestamp":"2024-09-22T11:00:00Z","vessel":"Sailing Barge Alice","direction":"up river"},
+{"timestamp":"2024-09-22T15:00:00Z","vessel":"Sailing Vessel Blue Mermaid","direction":"down river"},
+{"timestamp":"2024-09-22T15:00:00Z","vessel":"Sailing Barge Alice","direction":"down river"},
+{"timestamp":"2024-09-22T16:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-09-22T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
