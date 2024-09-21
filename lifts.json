@@ -1,5 +1,4 @@
 [
-{"timestamp":"2024-09-21T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2024-09-21T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-09-21T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2024-09-21T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2024-10-02T13:20:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2024-10-02T13:50:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
 {"timestamp":"2024-10-03T12:30:00Z","vessel":"Sailing Barge Adieu","direction":"up river"},
-{"timestamp":"2024-10-03T13:15:00Z","vessel":"Sailing Barge Adieu","direction":"down river"}
+{"timestamp":"2024-10-03T13:15:00Z","vessel":"Sailing Barge Adieu","direction":"down river"},
+{"timestamp":"2024-10-03T15:45:00Z","vessel":"Sailing Barge Gladys","direction":"up river"}
 ]
