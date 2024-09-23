@@ -1,10 +1,4 @@
 [
-{"timestamp":"2024-09-23T16:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2024-09-23T16:30:00Z","vessel":"Tallship Galeon Andalucia","direction":"up river"},
-{"timestamp":"2024-09-23T17:00:00Z","vessel":"Tallship Galeon Andalucia","direction":"down river"},
-{"timestamp":"2024-09-23T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2024-09-23T18:15:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
-{"timestamp":"2024-09-23T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2024-09-24T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2024-09-24T18:15:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2024-09-24T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
@@ -48,5 +42,11 @@
 {"timestamp":"2024-10-07T21:10:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
 {"timestamp":"2024-10-08T05:00:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
 {"timestamp":"2024-10-08T15:45:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
-{"timestamp":"2024-10-09T18:50:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"}
+{"timestamp":"2024-10-09T18:50:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
+{"timestamp":"2024-10-09T19:50:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
+{"timestamp":"2024-10-11T13:15:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
+{"timestamp":"2024-10-11T13:45:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
+{"timestamp":"2024-10-11T21:05:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
+{"timestamp":"2024-10-12T08:40:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
+{"timestamp":"2024-10-12T18:50:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"}
 ]
