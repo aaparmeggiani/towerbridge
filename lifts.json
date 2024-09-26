@@ -1,8 +1,4 @@
 [
-{"timestamp":"2024-09-26T05:30:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2024-09-26T06:45:00Z","vessel":"Motor Vessel Hanseatic Nature","direction":"up river"},
-{"timestamp":"2024-09-26T06:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
-{"timestamp":"2024-09-26T07:30:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2024-09-27T09:00:00Z","vessel":"Motor Vessel Hanseatic Nature","direction":"down river"},
 {"timestamp":"2024-09-27T17:00:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2024-09-27T17:30:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
@@ -48,5 +44,9 @@
 {"timestamp":"2024-10-09T19:50:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
 {"timestamp":"2024-10-11T13:15:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2024-10-11T13:45:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
-{"timestamp":"2024-10-11T21:05:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"}
+{"timestamp":"2024-10-11T21:05:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
+{"timestamp":"2024-10-12T08:40:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
+{"timestamp":"2024-10-12T18:50:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
+{"timestamp":"2024-10-13T08:40:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
+{"timestamp":"2024-10-13T18:50:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"}
 ]
