@@ -1,6 +1,4 @@
 [
-{"timestamp":"2024-09-28T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2024-09-28T16:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-09-29T19:35:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2024-09-30T08:40:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
 {"timestamp":"2024-09-30T11:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2024-10-19T14:00:00Z","vessel":"Sailing Vessel PippykIIn","direction":"down river"},
 {"timestamp":"2024-10-25T16:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2024-10-25T17:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2024-10-25T20:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2024-10-25T20:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2024-10-25T21:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2024-10-26T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
