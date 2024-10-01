@@ -1,7 +1,4 @@
 [
-{"timestamp":"2024-10-01T10:45:00Z","vessel":"Motor Vessel World Voyager","direction":"up river"},
-{"timestamp":"2024-10-01T10:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
-{"timestamp":"2024-10-01T11:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2024-10-02T13:20:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2024-10-02T13:50:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
 {"timestamp":"2024-10-03T14:45:00Z","vessel":"Motor Vessel World Voyager","direction":"down river"},
@@ -18,6 +15,10 @@
 {"timestamp":"2024-10-05T15:15:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2024-10-05T17:00:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2024-10-05T17:30:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
+{"timestamp":"2024-10-06T07:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2024-10-06T07:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2024-10-06T08:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
+{"timestamp":"2024-10-06T08:30:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2024-10-06T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2024-10-06T20:30:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2024-10-07T08:20:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
@@ -47,6 +48,5 @@
 {"timestamp":"2024-10-26T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-10-26T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2024-10-26T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2024-10-31T16:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2024-10-31T16:45:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2024-10-31T16:00:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
