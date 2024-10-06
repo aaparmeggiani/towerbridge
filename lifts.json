@@ -1,6 +1,4 @@
 [
-{"timestamp":"2024-10-06T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
-{"timestamp":"2024-10-06T20:30:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2024-10-07T08:20:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
 {"timestamp":"2024-10-07T20:15:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2024-10-07T21:10:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2024-12-07T22:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2024-12-07T23:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-12-15T13:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-12-15T14:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2024-12-15T14:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-12-15T19:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-12-15T20:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
