@@ -14,6 +14,10 @@
 {"timestamp":"2024-10-28T08:45:00Z","vessel":"Marine Tugboat VB Benelux","direction":"down river"},
 {"timestamp":"2024-10-31T16:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2024-10-31T16:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2024-11-01T19:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-11-01T20:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-11-01T23:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-11-02T00:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-11-02T13:45:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
 {"timestamp":"2024-11-02T20:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2024-11-02T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
@@ -44,9 +48,5 @@
 {"timestamp":"2024-11-30T23:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2024-12-01T00:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-12-07T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-12-07T19:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2024-12-07T22:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-12-07T23:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2024-12-12T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-12-12T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2024-12-07T19:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
