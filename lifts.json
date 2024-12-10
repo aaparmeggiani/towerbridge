@@ -25,6 +25,14 @@
 {"timestamp":"2024-12-19T16:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2024-12-19T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2024-12-19T23:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-12-21T20:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-12-21T21:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2024-12-22T00:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2024-12-22T00:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-12-31T19:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2024-12-31T20:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+{"timestamp":"2024-12-31T20:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2025-01-10T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-01-10T19:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2025-01-10T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-01-10T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
