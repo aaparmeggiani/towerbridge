@@ -1,9 +1,9 @@
 [
-{"timestamp":"2024-12-21T05:45:00Z","vessel":"Vessel","direction":"up river"},
-{"timestamp":"2024-12-21T05:45:00Z","vessel":"Marine Tugboat VB Benelux","direction":"up river"},
 {"timestamp":"2024-12-21T05:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
-{"timestamp":"2024-12-21T06:30:00Z","vessel":"Marine Tugboat VB Benelux","direction":"down river"},
-{"timestamp":"2024-12-21T06:30:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
+{"timestamp":"2024-12-21T06:30:00Z","vessel":"Vessel","direction":"up river"},
+{"timestamp":"2024-12-21T06:30:00Z","vessel":"Marine Tugboat VB Benelux","direction":"up river"},
+{"timestamp":"2024-12-21T07:15:00Z","vessel":"Marine Tugboat VB Benelux","direction":"down river"},
+{"timestamp":"2024-12-21T07:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2024-12-21T20:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2024-12-21T21:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2024-12-22T00:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
