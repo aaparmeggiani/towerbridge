@@ -1,8 +1,4 @@
 [
-{"timestamp":"2025-04-05T16:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2025-04-05T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2025-04-05T20:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2025-04-05T21:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2025-04-07T09:45:00Z","vessel":"Motor Vessel Hanseatic Spirit","direction":"up river"},
 {"timestamp":"2025-04-07T21:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
 {"timestamp":"2025-04-07T21:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
@@ -48,5 +44,9 @@
 {"timestamp":"2025-06-05T16:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-06-05T17:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-06-06T12:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-06-06T13:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2025-06-06T13:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-06-06T16:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-06-06T17:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-06-29T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-06-29T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
