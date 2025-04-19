@@ -1,5 +1,4 @@
 [
-{"timestamp":"2025-04-19T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-04-19T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-04-19T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-04-19T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2025-06-06T17:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-06-29T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-06-29T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2025-06-29T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2025-06-29T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-06-29T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
