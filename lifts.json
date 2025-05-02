@@ -11,7 +11,9 @@
 {"timestamp":"2025-05-03T16:45:00Z","vessel":"Motor Vessel Le Bellot","direction":"up river"},
 {"timestamp":"2025-05-03T16:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
 {"timestamp":"2025-05-03T17:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
+{"timestamp":"2025-05-04T18:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
 {"timestamp":"2025-05-04T19:00:00Z","vessel":"Motor Vessel Le Bellot","direction":"down river"},
+{"timestamp":"2025-05-04T19:00:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2025-05-06T09:00:00Z","vessel":"Commissioning Service Operation Vessel Purus Chinook","direction":"up river"},
 {"timestamp":"2025-05-06T10:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-05-06T11:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
@@ -46,7 +48,5 @@
 {"timestamp":"2025-05-20T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-05-20T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2025-05-21T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2025-05-21T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2025-05-22T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2025-05-22T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"}
+{"timestamp":"2025-05-21T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"}
 ]
