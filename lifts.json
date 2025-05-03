@@ -1,7 +1,4 @@
 [
-{"timestamp":"2025-05-03T16:45:00Z","vessel":"Motor Vessel Le Bellot","direction":"up river"},
-{"timestamp":"2025-05-03T16:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
-{"timestamp":"2025-05-03T17:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2025-05-04T18:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
 {"timestamp":"2025-05-04T19:00:00Z","vessel":"Motor Vessel Le Bellot","direction":"down river"},
 {"timestamp":"2025-05-04T19:00:00Z","vessel":"Marine Tugboat VB Peter","direction":"down river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2025-05-28T16:15:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2025-05-28T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-05-28T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2025-05-29T12:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"}
+{"timestamp":"2025-05-29T12:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
+{"timestamp":"2025-06-05T16:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-06-05T17:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-06-06T12:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
