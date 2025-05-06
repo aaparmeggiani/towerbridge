@@ -1,5 +1,4 @@
 [
-{"timestamp":"2025-05-06T09:00:00Z","vessel":"Commissioning Service Operation Vessel Purus Chinook","direction":"up river"},
 {"timestamp":"2025-05-06T10:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-05-06T11:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2025-05-06T13:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -10,6 +9,7 @@
 {"timestamp":"2025-05-08T09:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-05-08T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-05-08T15:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-05-08T20:20:00Z","vessel":"Motor Vessel Havengore","direction":"up river"},
 {"timestamp":"2025-05-09T08:45:00Z","vessel":"Commissioning Service Operation Vessel Purus Chinook","direction":"down river"},
 {"timestamp":"2025-05-11T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-05-11T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
