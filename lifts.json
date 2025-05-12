@@ -1,5 +1,4 @@
 [
-{"timestamp":"2025-05-12T14:00:00Z","vessel":"Motor Vessel World Traveller","direction":"down river"},
 {"timestamp":"2025-05-12T15:00:00Z","vessel":"Vessel","direction":"up river"},
 {"timestamp":"2025-05-12T15:00:00Z","vessel":"Marine Tugboat VB Benelux","direction":"up river"},
 {"timestamp":"2025-05-12T15:00:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
@@ -21,6 +20,8 @@
 {"timestamp":"2025-05-17T16:30:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
 {"timestamp":"2025-05-17T17:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-05-17T17:00:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
+{"timestamp":"2025-05-18T17:30:00Z","vessel":"Vessel","direction":"up river"},
+{"timestamp":"2025-05-20T06:45:00Z","vessel":"Vessel","direction":"down river"},
 {"timestamp":"2025-05-20T08:15:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2025-05-20T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-05-20T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
@@ -47,6 +48,5 @@
 {"timestamp":"2025-06-29T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-06-29T11:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-06-29T11:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2025-06-29T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-06-29T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2025-06-29T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
