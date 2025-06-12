@@ -1,6 +1,8 @@
 [
 {"timestamp":"2025-06-12T15:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-06-12T16:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2025-06-13T12:30:00Z","vessel":"Sailing Yacht Guennik","direction":"up river"},
+{"timestamp":"2025-06-13T13:00:00Z","vessel":"Sailing Yacht Guennik","direction":"down river"},
 {"timestamp":"2025-06-14T14:45:00Z","vessel":"MV Dutch Master","direction":"up river"},
 {"timestamp":"2025-06-15T15:15:00Z","vessel":"MV Dutch Master","direction":"up river"},
 {"timestamp":"2025-06-16T12:15:00Z","vessel":"Vessel","direction":"down river"},
@@ -36,7 +38,7 @@
 {"timestamp":"2025-06-28T14:50:00Z","vessel":"Motor Yacht Gladiator","direction":"down river"},
 {"timestamp":"2025-06-28T14:50:00Z","vessel":"Sailing Vessel Tahilla","direction":"down river"},
 {"timestamp":"2025-06-28T14:50:00Z","vessel":"Sailing Vessel Dama de Noche","direction":"down river"},
-{"timestamp":"2025-06-28T15:15:00Z","vessel":"MV Dutch Master","direction":"up river"},
+{"timestamp":"2025-06-28T15:20:00Z","vessel":"MV Dutch Master","direction":"up river"},
 {"timestamp":"2025-06-29T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-06-29T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-06-29T11:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -46,7 +48,5 @@
 {"timestamp":"2025-06-29T16:45:00Z","vessel":"MV Dutch Master","direction":"up river"},
 {"timestamp":"2025-06-30T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-06-30T18:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2025-06-30T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2025-06-30T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2025-07-02T12:45:00Z","vessel":"PS Dixie Queen","direction":"up river"}
+{"timestamp":"2025-06-30T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
 ]
