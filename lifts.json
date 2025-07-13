@@ -1,5 +1,4 @@
 [
-{"timestamp":"2025-07-13T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2025-07-14T14:15:00Z","vessel":"Vessel","direction":"up river"},
 {"timestamp":"2025-07-14T14:15:00Z","vessel":"Marine Tugboat VB Ambition","direction":"up river"},
 {"timestamp":"2025-07-14T14:15:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2025-08-08T19:30:00Z","vessel":"PS Dixie Queen","direction":"down river"},
 {"timestamp":"2025-08-08T21:45:00Z","vessel":"PS Dixie Queen","direction":"up river"},
 {"timestamp":"2025-08-08T22:30:00Z","vessel":"PS Dixie Queen","direction":"down river"},
-{"timestamp":"2025-09-04T16:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2025-09-04T16:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-04T17:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
