@@ -1,6 +1,4 @@
 [
-{"timestamp":"2025-07-18T18:45:00Z","vessel":"PS Dixie Queen","direction":"up river"},
-{"timestamp":"2025-07-18T19:30:00Z","vessel":"PS Dixie Queen","direction":"down river"},
 {"timestamp":"2025-07-18T21:45:00Z","vessel":"PS Dixie Queen","direction":"up river"},
 {"timestamp":"2025-07-18T22:30:00Z","vessel":"PS Dixie Queen","direction":"down river"},
 {"timestamp":"2025-07-19T05:45:00Z","vessel":"Marine Tugboat VB Ambition","direction":"up river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2025-09-05T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-05T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-05T18:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-09-05T19:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2025-09-05T19:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-06T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-06T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
