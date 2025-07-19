@@ -1,12 +1,4 @@
 [
-{"timestamp":"2025-07-18T21:45:00Z","vessel":"PS Dixie Queen","direction":"up river"},
-{"timestamp":"2025-07-18T22:30:00Z","vessel":"PS Dixie Queen","direction":"down river"},
-{"timestamp":"2025-07-19T05:45:00Z","vessel":"Marine Tugboat VB Ambition","direction":"up river"},
-{"timestamp":"2025-07-19T05:45:00Z","vessel":"Marine Tugboat VB Peter","direction":"up river"},
-{"timestamp":"2025-07-19T06:15:00Z","vessel":"Vessel","direction":"down river"},
-{"timestamp":"2025-07-19T06:15:00Z","vessel":"Marine Tugboat VB Ambition","direction":"down river"},
-{"timestamp":"2025-07-19T06:15:00Z","vessel":"Marine Tug Boat VB Peter","direction":"down river"},
-{"timestamp":"2025-07-19T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-07-19T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-07-19T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-07-19T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
@@ -48,5 +40,13 @@
 {"timestamp":"2025-09-05T18:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-05T19:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-06T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-09-06T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2025-09-06T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-06T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-06T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-08T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-08T16:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-13T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-13T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-18T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-18T16:00:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
