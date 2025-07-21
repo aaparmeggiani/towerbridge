@@ -17,6 +17,11 @@
 {"timestamp":"2025-07-26T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-07-26T22:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2025-07-27T15:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
+{"timestamp":"2025-07-28T11:00:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
+{"timestamp":"2025-07-28T15:00:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
+{"timestamp":"2025-07-29T08:00:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
+{"timestamp":"2025-07-29T13:00:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
+{"timestamp":"2025-07-30T13:00:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
 {"timestamp":"2025-07-31T08:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-07-31T09:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-08-04T10:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
@@ -43,10 +48,5 @@
 {"timestamp":"2025-09-06T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-06T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-08T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-09-08T16:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2025-09-13T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-09-13T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2025-09-18T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-09-18T16:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2025-09-18T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
+{"timestamp":"2025-09-08T16:00:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
