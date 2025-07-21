@@ -1,4 +1,5 @@
 [
+{"timestamp":"2025-07-21T11:00:00Z","vessel":"Maintenance Lift","direction":"up river"},
 {"timestamp":"2025-07-22T11:45:00Z","vessel":"Training Ship Rigel","direction":"up river"},
 {"timestamp":"2025-07-22T11:45:00Z","vessel":"Marine Tugboat Christine","direction":"up river"},
 {"timestamp":"2025-07-22T12:45:00Z","vessel":"Marine Tugboat Christine","direction":"down river"},
@@ -47,6 +48,5 @@
 {"timestamp":"2025-09-18T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-18T16:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-18T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2025-09-18T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2025-09-18T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
+{"timestamp":"2025-09-18T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
 ]
