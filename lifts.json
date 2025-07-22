@@ -4,13 +4,10 @@
 {"timestamp":"2025-07-22T12:45:00Z","vessel":"Marine Tugboat Christine","direction":"down river"},
 {"timestamp":"2025-07-24T11:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-07-24T11:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2025-07-24T15:30:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-07-24T15:30:00Z","vessel":"Sailing Barge Adieu","direction":"up river"},
 {"timestamp":"2025-07-24T16:00:00Z","vessel":"Sailing Barge Adieu","direction":"down river"},
 {"timestamp":"2025-07-24T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-07-24T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2025-07-24T18:30:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2025-07-25T11:30:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-07-25T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-07-25T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2025-07-26T14:45:00Z","vessel":"Training Ship Rigel","direction":"down river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2025-09-05T18:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-05T19:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-06T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-09-06T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2025-09-06T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-06T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-06T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-08T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
