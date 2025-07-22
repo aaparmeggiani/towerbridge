@@ -1,7 +1,4 @@
 [
-{"timestamp":"2025-07-22T11:45:00Z","vessel":"Training Ship Rigel","direction":"up river"},
-{"timestamp":"2025-07-22T11:45:00Z","vessel":"Marine Tugboat Christine","direction":"up river"},
-{"timestamp":"2025-07-22T12:45:00Z","vessel":"Marine Tugboat Christine","direction":"down river"},
 {"timestamp":"2025-07-24T11:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-07-24T11:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2025-07-24T15:30:00Z","vessel":"Sailing Barge Adieu","direction":"up river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2025-09-06T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-06T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-06T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2025-09-08T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2025-09-08T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-08T16:00:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-13T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-13T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
