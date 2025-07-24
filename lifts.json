@@ -1,6 +1,4 @@
 [
-{"timestamp":"2025-07-24T11:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
-{"timestamp":"2025-07-24T11:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2025-07-24T15:30:00Z","vessel":"Sailing Barge Adieu","direction":"up river"},
 {"timestamp":"2025-07-24T16:00:00Z","vessel":"Sailing Barge Adieu","direction":"down river"},
 {"timestamp":"2025-07-24T18:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2025-08-16T18:30:00Z","vessel":"Sailing Vessel Dodger Of Gosport","direction":"down river"},
 {"timestamp":"2025-08-24T15:15:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2025-08-29T16:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
-{"timestamp":"2025-09-02T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2025-09-02T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-02T15:45:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-04T16:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
