@@ -1,7 +1,7 @@
 [
 {"timestamp":"2025-07-25T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-07-25T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2025-07-26T14:15:00Z","vessel":"Marine Tugboat Christine","direction":"up river"},
+{"timestamp":"2025-07-26T14:00:00Z","vessel":"Marine Tugboat Christine","direction":"up river"},
 {"timestamp":"2025-07-26T14:45:00Z","vessel":"Training Ship Rigel","direction":"down river"},
 {"timestamp":"2025-07-26T14:45:00Z","vessel":"Marine Tugboat Christine","direction":"down river"},
 {"timestamp":"2025-07-26T22:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
