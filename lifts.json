@@ -1,5 +1,4 @@
 [
-{"timestamp":"2025-07-30T08:00:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
 {"timestamp":"2025-07-30T13:00:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
 {"timestamp":"2025-07-31T08:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-07-31T08:30:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
@@ -48,5 +47,6 @@
 {"timestamp":"2025-09-05T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-05T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-05T18:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-09-05T19:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2025-09-05T19:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-06T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
