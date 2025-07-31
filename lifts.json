@@ -1,7 +1,4 @@
 [
-{"timestamp":"2025-07-31T13:00:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
-{"timestamp":"2025-07-31T14:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2025-07-31T18:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2025-08-01T08:00:00Z","vessel":"Tower Bridge Maintenance Lift","direction":"up river"},
 {"timestamp":"2025-08-01T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-08-01T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2025-09-04T17:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-05T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-05T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2025-09-05T18:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
+{"timestamp":"2025-09-05T18:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-05T19:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-06T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-06T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
