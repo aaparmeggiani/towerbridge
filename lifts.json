@@ -1,6 +1,4 @@
 [
-{"timestamp":"2025-08-06T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
-{"timestamp":"2025-08-06T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2025-08-07T10:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-08-07T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-08-07T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2025-09-11T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2025-09-12T05:00:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-09-13T15:00:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-09-13T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2025-09-13T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-18T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
+{"timestamp":"2025-09-18T16:00:00Z","vessel":"Sailing Barge Will","direction":"down river"}
 ]
