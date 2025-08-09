@@ -1,6 +1,4 @@
 [
-{"timestamp":"2025-08-08T21:45:00Z","vessel":"PS Dixie Queen","direction":"up river"},
-{"timestamp":"2025-08-08T22:30:00Z","vessel":"PS Dixie Queen","direction":"down river"},
 {"timestamp":"2025-08-11T19:00:00Z","vessel":"Marine Tugboat Emilia D","direction":"up river"},
 {"timestamp":"2025-08-11T20:00:00Z","vessel":"Marine Tugboat Emilia D","direction":"down river"},
 {"timestamp":"2025-08-15T18:30:00Z","vessel":"Motor Vessel Dutch Master","direction":"down river"},
@@ -48,5 +46,7 @@
 {"timestamp":"2025-09-18T17:45:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-09-18T18:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2025-09-18T21:00:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
-{"timestamp":"2025-09-18T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"}
+{"timestamp":"2025-09-18T21:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-09-18T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2025-09-19T10:15:00Z","vessel":"Sailing Barge Gladys","direction":"down river"}
 ]
