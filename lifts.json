@@ -21,6 +21,7 @@
 {"timestamp":"2025-09-05T19:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-06T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-06T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
+{"timestamp":"2025-09-06T12:15:00Z","vessel":"Motor Vessel Dutch Master","direction":"up river"},
 {"timestamp":"2025-09-06T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-06T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-08T11:45:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
@@ -47,6 +48,5 @@
 {"timestamp":"2025-09-19T15:30:00Z","vessel":"Sailing Barge Will","direction":"down river"},
 {"timestamp":"2025-09-20T09:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
 {"timestamp":"2025-09-20T10:15:00Z","vessel":"Sailing Barge Will","direction":"down river"},
-{"timestamp":"2025-09-20T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"},
-{"timestamp":"2025-09-20T15:15:00Z","vessel":"Sailing Barge Will","direction":"down river"}
+{"timestamp":"2025-09-20T14:30:00Z","vessel":"Sailing Barge Will","direction":"up river"}
 ]
