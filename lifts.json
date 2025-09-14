@@ -1,7 +1,4 @@
 [
-{"timestamp":"2025-09-14T16:45:00Z","vessel":"Motor Tugboat VB Peter","direction":"up river"},
-{"timestamp":"2025-09-14T17:15:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
-{"timestamp":"2025-09-14T17:15:00Z","vessel":"Motor Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2025-09-16T09:45:00Z","vessel":"Sailing Barge Gladys","direction":"up river"},
 {"timestamp":"2025-09-16T12:15:00Z","vessel":"Sailing Barge Gladys","direction":"down river"},
 {"timestamp":"2025-09-16T15:15:00Z","vessel":"Sailing Barge Will","direction":"up river"},
@@ -48,5 +45,8 @@
 {"timestamp":"2025-09-27T12:50:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
 {"timestamp":"2025-09-27T13:20:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
 {"timestamp":"2025-09-27T16:45:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
-{"timestamp":"2025-09-27T20:35:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"}
+{"timestamp":"2025-09-27T20:35:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
+{"timestamp":"2025-09-28T08:40:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"},
+{"timestamp":"2025-09-28T19:05:00Z","vessel":"Paddle Steamer Waverley","direction":"up river"},
+{"timestamp":"2025-09-28T19:55:00Z","vessel":"Paddle Steamer Waverley","direction":"down river"}
 ]
