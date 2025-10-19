@@ -1,7 +1,4 @@
 [
-{"timestamp":"2025-10-19T12:15:00Z","vessel":"Motor Tugboat VB Peter","direction":"up river"},
-{"timestamp":"2025-10-19T12:45:00Z","vessel":"Motor Vessel Hanseatic Nature","direction":"down river"},
-{"timestamp":"2025-10-19T12:45:00Z","vessel":"Motor Tugboat VB Peter","direction":"down river"},
 {"timestamp":"2025-10-22T11:45:00Z","vessel":"Motor Yacht Valor","direction":"up river"},
 {"timestamp":"2025-10-22T12:15:00Z","vessel":"Motor Yacht Valor","direction":"down river"},
 {"timestamp":"2025-10-24T03:45:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
