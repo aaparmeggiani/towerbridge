@@ -1,6 +1,8 @@
 [
 {"timestamp":"2025-10-22T11:45:00Z","vessel":"Motor Yacht Valor","direction":"up river"},
 {"timestamp":"2025-10-22T12:15:00Z","vessel":"Motor Yacht Valor","direction":"down river"},
+{"timestamp":"2025-10-23T16:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-10-23T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2025-10-24T03:45:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
 {"timestamp":"2025-10-24T03:45:00Z","vessel":"Motor Tugboat VB Baydan","direction":"up river"},
 {"timestamp":"2025-10-24T04:15:00Z","vessel":"Motor Tugboat VB Baydan","direction":"down river"},
