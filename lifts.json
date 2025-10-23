@@ -1,8 +1,6 @@
 [
 {"timestamp":"2025-10-23T16:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
 {"timestamp":"2025-10-23T17:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
-{"timestamp":"2025-10-24T03:45:00Z","vessel":"Motor Tugboat VB Baydan","direction":"up river"},
-{"timestamp":"2025-10-24T04:15:00Z","vessel":"Motor Tugboat VB Baydan","direction":"down river"},
 {"timestamp":"2025-10-24T15:45:00Z","vessel":"Motor Ship Hamburg","direction":"up river"},
 {"timestamp":"2025-10-25T15:15:00Z","vessel":"Motor Tugboat VB Baydan","direction":"up river"},
 {"timestamp":"2025-10-25T15:45:00Z","vessel":"Motor Ship Hamburg","direction":"down river"},
