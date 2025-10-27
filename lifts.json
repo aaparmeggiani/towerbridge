@@ -19,6 +19,8 @@
 {"timestamp":"2025-11-15T10:45:00Z","vessel":"Sailing Yacht Good Dog","direction":"down river"},
 {"timestamp":"2025-11-16T11:00:00Z","vessel":"Sailing Yacht Good Dog","direction":"up river"},
 {"timestamp":"2025-11-16T11:30:00Z","vessel":"Sailing Yacht Good Dog","direction":"down river"},
+{"timestamp":"2025-11-29T23:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-11-30T00:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
 {"timestamp":"2025-12-10T16:45:00Z","vessel":"Sailing Yacht Good Dog","direction":"up river"},
 {"timestamp":"2025-12-10T17:15:00Z","vessel":"Sailing Yacht Good Dog","direction":"down river"},
 {"timestamp":"2025-12-11T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
