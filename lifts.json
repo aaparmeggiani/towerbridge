@@ -1,0 +1,22 @@
+[
+{"timestamp":"2025-11-29T23:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-11-30T00:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2025-12-10T16:45:00Z","vessel":"Sailing Yacht Good Dog","direction":"up river"},
+{"timestamp":"2025-12-10T17:15:00Z","vessel":"Sailing Yacht Good Dog","direction":"down river"},
+{"timestamp":"2025-12-11T17:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-12-11T18:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2025-12-11T22:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-12-11T23:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2025-12-16T09:45:00Z","vessel":"Motor Vessel Dragon","direction":"up river"},
+{"timestamp":"2025-12-16T10:15:00Z","vessel":"Motor Vessel Dragon","direction":"down river"},
+{"timestamp":"2025-12-19T20:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-12-19T21:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2025-12-20T00:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-12-20T00:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2025-12-20T14:15:00Z","vessel":"Sailing Yacht Good Dog","direction":"up river"},
+{"timestamp":"2025-12-20T14:45:00Z","vessel":"Sailing Yacht Good Dog","direction":"down river"},
+{"timestamp":"2025-12-31T19:30:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2025-12-31T20:00:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"},
+{"timestamp":"2026-07-16T12:15:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"up river"},
+{"timestamp":"2026-07-16T12:45:00Z","vessel":"Paddle Steamer Dixie Queen","direction":"down river"}
+]
