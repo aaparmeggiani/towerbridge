@@ -1,6 +1,6 @@
-FROM golang:1.17.13-alpine as builder
+FROM golang:alpine as builder
 RUN apk add -u git tzdata
-RUN go get github.com/ericchiang/pup
+RUN go install github.com/ericchiang/pup@latest
 
 FROM alpine:latest
 RUN apk add -u jq git
