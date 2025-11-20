@@ -2,8 +2,9 @@ name: Update lifts.json
 
 on:
   schedule:
-  - cron: '0 * * * *'
-
+  - cron: '0 * * * *' 
+  workflow_dispatch:
+  
 jobs:
   build:
 
