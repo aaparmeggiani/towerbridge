@@ -2,7 +2,7 @@
 
 ![Update lifts.json](https://github.com/aaparmeggiani/towerbridge/workflows/Update%20lifts.json/badge.svg)
 
-This repo parses data from the official Tower Bridge page &mdash; https://www.towerbridge.org.uk/lift-times &mdash; and makes it available in JSON format at: 
+This repo parses data from the official Tower Bridge page &mdash; https://www.towerbridge.org.uk/bridge-lifts &mdash; and makes it available in JSON format at: 
 
 https://aaparmeggiani.github.io/towerbridge/lifts.json 
 
