@@ -1,12 +1,89 @@
 #!/bin/ash
 
 fetch() {
-    #curl -L https://towerbridge.org.uk/lift-times/  \
-    wget -q -O- https://towerbridge.org.uk/lift-times/  \
-    | pup 'table[class~="views-table"] tr json{}' \
-    | jq -c '[.[1:] | .[] |{timestamp: .children[0] | .children[0] | .datetime, vessel: .children[3] | .text, direction: .children[4] | .text | ascii_downcase}]' \
-    | sed  -e "s/{/\n{/g" -e "s/]/\n]/" \
-    > lifts.json
+    wget -q -O- https://www.towerbridge.org.uk/bridge-lifts  \
+    | pup 'div.time-table-container text{}' \
+    | awk ' 
+        function trim(s) {
+            gsub(/^[ \t\r\n]+/, "", s)
+            gsub(/[ \t\r\n]+$/, "", s)
+            return s
+        }
+
+        BEGIN {
+            # Month name → month number
+            split("January February March April May June July August September October November December", mlist, " ")
+            for (i = 1; i <= 12; i++) monthnum[mlist[i]] = sprintf("%02d", i)
+
+            current_date = ""
+            print "["
+        }
+
+        {
+            line = trim($0)
+            if (line == "") next
+
+            # Date line : "Friday 28 November 2025"
+            if (line ~ /^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)[ \t]+[0-9]{1,2}[ \t]+[A-Za-z]+[ \t]+20[0-9]{2}$/) {
+                split(line, a, /[ \t]+/)
+                day   = sprintf("%02d", a[2])
+                month = a[3]
+                year  = a[4]
+                current_date = year "-" monthnum[month] "-" day
+                next
+            }
+
+            # Time line: "16:45", "16:45 Upriver", "16:45 Downriver"
+            if (line ~ /^[0-9]{1,2}:[0-9]{2}([ \t]+.*)?$/ && current_date != "") {
+                split(line, parts, /[ \t]+/)
+                timepart = parts[1]
+
+                # Try to get direction from the same line
+                dirline = line
+                sub(/^[0-9]{1,2}:[0-9]{2}[ \t]*/, "", dirline)
+                dirline = trim(dirline)
+
+                # If not there, look ahead for Upriver/Downriver
+                if (dirline == "") {
+                    while ((getline line) > 0) {
+                        line = trim(line)
+                        if (line == "") continue
+                        line = tolower(line)
+                        if (line ~ /^(up|down)river$/) direction = line
+                        else direction = "unknown"
+                        break
+                    }
+                }
+
+                # ISO timestamp
+                split(timepart, t, ":")
+                hh = sprintf("%02d", t[1])
+                mm = sprintf("%02d", t[2])
+                ts = current_date "T" hh ":" mm ":00Z"
+
+                # Vessel Type
+                vessel_type = ""
+                while ((getline line) > 0) {
+                    line = trim(line)
+                    if (line != "") { vessel_type = line; break }
+                }
+            
+                # Vessel Name
+                vessel_name = ""
+                while ((getline line) > 0) {
+                    line = trim(line)
+                    if (line != "") { vessel_name = line; break }
+                }
+        
+                # JSON output
+                printf("{\"timestamp\":\"%s\",\"vessel_type\":\"%s\",\"vessel_name\":\"%s\",\"direction\":\"%s\"},\n", ts, vessel_type, vessel_name, direction)
+            }
+        }
+
+        END {
+            print "]"
+        }
+    ' |  sed ':a;N;$!ba;s/,\n]/\n]/' > lifts.json
 }
 
 lifts() {
