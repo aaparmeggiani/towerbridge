@@ -1,6 +1,4 @@
 [
-{"timestamp":"2025-12-06T23:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
-{"timestamp":"2025-12-07T00:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2025-12-10T16:45:00Z","vessel_type":"Sailing Yacht","vessel_name":"Good Dog","direction":"upriver"},
 {"timestamp":"2025-12-10T17:15:00Z","vessel_type":"Sailing Yacht","vessel_name":"Good Dog","direction":"downriver"},
 {"timestamp":"2025-12-10T18:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Elizabethan","direction":"upriver"},
