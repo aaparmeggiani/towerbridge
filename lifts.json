@@ -14,6 +14,8 @@
 {"timestamp":"2025-12-12T17:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2025-12-16T09:45:00Z","vessel_type":"Motor Vessel (interchangeable with MS)","vessel_name":"Dragon","direction":"upriver"},
 {"timestamp":"2025-12-16T10:15:00Z","vessel_type":"Motor Vessel (interchangeable with MS)","vessel_name":"Dragon","direction":"downriver"},
+{"timestamp":"2025-12-16T14:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Adieu","direction":"upriver"},
+{"timestamp":"2025-12-16T15:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Adieu","direction":"downriver"},
 {"timestamp":"2025-12-19T20:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2025-12-19T21:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2025-12-20T00:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
