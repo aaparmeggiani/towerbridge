@@ -5,6 +5,10 @@
 {"timestamp":"2026-01-24T09:30:00Z","vessel_type":"Tower Bridge","vessel_name":"Maintenance Lift","direction":"downriver"},
 {"timestamp":"2026-01-27T08:00:00Z","vessel_type":"Sailing Yacht","vessel_name":"Good Dog","direction":"upriver"},
 {"timestamp":"2026-01-27T08:30:00Z","vessel_type":"Sailing Yacht","vessel_name":"Good Dog","direction":"downriver"},
+{"timestamp":"2026-02-21T18:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
+{"timestamp":"2026-02-21T19:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
+{"timestamp":"2026-02-21T22:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
+{"timestamp":"2026-02-21T23:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-07-16T13:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2026-07-16T14:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"}
 ]
