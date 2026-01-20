@@ -9,6 +9,8 @@
 {"timestamp":"2026-02-21T19:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-02-21T22:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2026-02-21T23:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
+{"timestamp":"2026-04-19T04:15:00Z","vessel_type":"Motor Ship (interchangeable with MV)","vessel_name":"Hamburg","direction":"upriver"},
+{"timestamp":"2026-04-19T16:15:00Z","vessel_type":"Motor Ship (interchangeable with MV)","vessel_name":"Hamburg","direction":"downriver"},
 {"timestamp":"2026-07-16T13:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2026-07-16T14:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"}
 ]
