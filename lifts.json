@@ -1,5 +1,4 @@
 [
-{"timestamp":"2026-03-23T11:30:00Z","vessel_type":"Tower Bridge","vessel_name":"Maintenance Lift","direction":"upriver"},
 {"timestamp":"2026-03-23T12:00:00Z","vessel_type":"Tower Bridge","vessel_name":"Maintenance Lift","direction":"downriver"},
 {"timestamp":"2026-03-28T21:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2026-03-28T22:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
