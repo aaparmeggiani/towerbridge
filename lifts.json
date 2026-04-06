@@ -1,4 +1,8 @@
 [
+{"timestamp":"2026-04-07T15:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
+{"timestamp":"2026-04-07T16:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
+{"timestamp":"2026-04-08T07:00:00Z","vessel_type":"Motor Vessel (interchangeable with MS)","vessel_name":"National Geographic Endurance","direction":"upriver"},
+{"timestamp":"2026-04-08T07:30:00Z","vessel_type":"Motor Vessel (interchangeable with MS)","vessel_name":"National Geographic Endurance","direction":"downriver"},
 {"timestamp":"2026-04-08T20:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2026-04-08T21:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-04-18T13:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
