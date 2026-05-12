@@ -1,10 +1,9 @@
 [
-{"timestamp":"2026-05-12T08:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
-{"timestamp":"2026-05-12T11:15:00Z","vessel_type":"Motor Vessel","vessel_name":"Star Pride","direction":"upriver"},
 {"timestamp":"2026-05-12T11:15:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"upriver"},
+{"timestamp":"2026-05-12T11:15:00Z","vessel_type":"Motor Vessel","vessel_name":"Star Pride","direction":"upriver"},
 {"timestamp":"2026-05-12T11:45:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"downriver"},
-{"timestamp":"2026-05-12T22:30:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"upriver"},
 {"timestamp":"2026-05-12T22:30:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"upriver"},
+{"timestamp":"2026-05-12T22:30:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"upriver"},
 {"timestamp":"2026-05-12T23:00:00Z","vessel_type":"Motor Vessel","vessel_name":"Star Pride","direction":"downriver"},
 {"timestamp":"2026-05-12T23:00:00Z","vessel_type":"VB Boluman","vessel_name":"23:00","direction":"unknown"},
 {"timestamp":"2026-05-13T13:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
@@ -97,5 +96,6 @@
 {"timestamp":"2026-09-24T19:35:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
 {"timestamp":"2026-09-24T20:25:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
 {"timestamp":"2026-09-25T13:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
-{"timestamp":"2026-09-25T14:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"}
+{"timestamp":"2026-09-25T14:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
+{"timestamp":"2026-09-25T21:20:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"}
 ]
