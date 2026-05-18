@@ -1,9 +1,8 @@
 [
-{"timestamp":"2026-05-18T18:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
 {"timestamp":"2026-05-18T22:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
-{"timestamp":"2026-05-19T05:00:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"upriver"},
 {"timestamp":"2026-05-19T05:00:00Z","vessel_type":"Motor Vessel","vessel_name":"Star Pride","direction":"upriver"},
 {"timestamp":"2026-05-19T05:00:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"upriver"},
+{"timestamp":"2026-05-19T05:00:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"upriver"},
 {"timestamp":"2026-05-19T05:30:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"downriver"},
 {"timestamp":"2026-05-19T05:30:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"downriver"},
 {"timestamp":"2026-05-19T14:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
@@ -98,5 +97,6 @@
 {"timestamp":"2026-08-29T15:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-08-29T16:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-09-05T14:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
-{"timestamp":"2026-09-05T14:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"}
+{"timestamp":"2026-09-05T14:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
+{"timestamp":"2026-09-12T17:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"}
 ]
