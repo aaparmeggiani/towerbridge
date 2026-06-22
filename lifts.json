@@ -1,5 +1,4 @@
 [
-{"timestamp":"2026-06-22T22:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
 {"timestamp":"2026-06-23T12:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
 {"timestamp":"2026-06-23T16:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
 {"timestamp":"2026-06-23T19:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
@@ -97,5 +96,6 @@
 {"timestamp":"2026-09-16T16:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
 {"timestamp":"2026-09-16T18:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
 {"timestamp":"2026-09-16T22:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
-{"timestamp":"2026-09-17T08:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"}
+{"timestamp":"2026-09-17T08:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
+{"timestamp":"2026-09-18T16:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"}
 ]
