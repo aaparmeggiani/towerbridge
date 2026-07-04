@@ -1,8 +1,4 @@
 [
-{"timestamp":"2026-07-04T10:30:00Z","vessel_type":"Sailing Yacht","vessel_name":"Spitfire","direction":"upriver"},
-{"timestamp":"2026-07-04T10:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
-{"timestamp":"2026-07-04T11:15:00Z","vessel_type":"Sailing Yacht","vessel_name":"Spitfire","direction":"downriver"},
-{"timestamp":"2026-07-04T11:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-07-04T15:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-07-04T16:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-07-04T16:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
@@ -98,5 +94,9 @@
 {"timestamp":"2026-09-17T08:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
 {"timestamp":"2026-09-18T16:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-09-18T17:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
-{"timestamp":"2026-09-19T16:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"}
+{"timestamp":"2026-09-19T16:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
+{"timestamp":"2026-09-19T17:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
+{"timestamp":"2026-09-23T14:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
+{"timestamp":"2026-09-23T18:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
+{"timestamp":"2026-09-23T22:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"}
 ]
