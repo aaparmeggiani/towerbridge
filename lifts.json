@@ -1,5 +1,4 @@
 [
-{"timestamp":"2026-08-01T13:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
 {"timestamp":"2026-08-01T16:30:00Z","vessel_type":"Motor Vessel","vessel_name":"Dutch Master","direction":"upriver"},
 {"timestamp":"2026-08-02T16:00:00Z","vessel_type":"Motor Vessel","vessel_name":"Dutch Master","direction":"upriver"},
 {"timestamp":"2026-08-02T16:30:00Z","vessel_type":"Sailing Yacht","vessel_name":"Big Bear","direction":"upriver"},
@@ -98,5 +97,6 @@
 {"timestamp":"2026-09-30T22:10:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
 {"timestamp":"2026-10-02T08:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
 {"timestamp":"2026-10-02T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
-{"timestamp":"2026-10-02T20:50:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"}
+{"timestamp":"2026-10-02T20:50:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
+{"timestamp":"2026-10-03T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"}
 ]
