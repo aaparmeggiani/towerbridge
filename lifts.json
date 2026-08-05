@@ -1,5 +1,4 @@
 [
-{"timestamp":"2026-08-05T10:00:00Z","vessel_type":"Tower Bridge","vessel_name":"Maintenance Lift","direction":"upriver"},
 {"timestamp":"2026-08-05T11:30:00Z","vessel_type":"Tower Bridge","vessel_name":"Maintenance Lift","direction":"upriver"},
 {"timestamp":"2026-08-05T13:00:00Z","vessel_type":"Tower Bridge","vessel_name":"Maintenance Lift","direction":"upriver"},
 {"timestamp":"2026-08-05T15:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
@@ -98,5 +97,6 @@
 {"timestamp":"2026-10-02T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
 {"timestamp":"2026-10-02T20:50:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
 {"timestamp":"2026-10-03T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
-{"timestamp":"2026-10-03T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"}
+{"timestamp":"2026-10-03T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
+{"timestamp":"2026-10-03T20:20:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"}
 ]
