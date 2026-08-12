@@ -20,6 +20,10 @@
 {"timestamp":"2026-09-04T17:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
 {"timestamp":"2026-09-05T14:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-09-05T14:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
+{"timestamp":"2026-09-08T11:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
+{"timestamp":"2026-09-08T12:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
+{"timestamp":"2026-09-08T15:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
+{"timestamp":"2026-09-08T16:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-09-09T16:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-09-09T16:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-09-10T18:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
@@ -94,9 +98,5 @@
 {"timestamp":"2026-10-08T19:20:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-10-09T19:35:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
 {"timestamp":"2026-10-10T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
-{"timestamp":"2026-10-10T20:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
-{"timestamp":"2026-10-10T21:05:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
-{"timestamp":"2026-10-11T19:50:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
-{"timestamp":"2026-10-11T20:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
-{"timestamp":"2026-10-17T10:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"}
+{"timestamp":"2026-10-10T20:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"}
 ]
