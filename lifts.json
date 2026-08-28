@@ -1,6 +1,4 @@
 [
-{"timestamp":"2026-08-28T15:30:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"upriver"},
-{"timestamp":"2026-08-28T15:30:00Z","vessel_type":"Vessel","vessel_name":"16:00","direction":"upriver"},
 {"timestamp":"2026-08-29T10:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-08-29T11:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-08-29T15:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
@@ -96,5 +94,8 @@
 {"timestamp":"2026-09-30T22:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
 {"timestamp":"2026-09-30T22:10:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
 {"timestamp":"2026-10-01T06:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
-{"timestamp":"2026-10-02T00:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"}
+{"timestamp":"2026-10-02T00:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
+{"timestamp":"2026-10-02T08:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
+{"timestamp":"2026-10-02T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
+{"timestamp":"2026-10-02T19:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"}
 ]
