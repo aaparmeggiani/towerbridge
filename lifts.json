@@ -1,8 +1,4 @@
 [
-{"timestamp":"2026-09-04T16:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
-{"timestamp":"2026-09-04T17:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
-{"timestamp":"2026-09-04T18:45:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"upriver"},
-{"timestamp":"2026-09-04T18:45:00Z","vessel_type":"Motor Vessel","vessel_name":"Le Champlain","direction":"upriver"},
 {"timestamp":"2026-09-04T19:30:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"downriver"},
 {"timestamp":"2026-09-04T19:30:00Z","vessel_type":"Motor Vessel","vessel_name":"Dutch Master","direction":"downriver"},
 {"timestamp":"2026-09-04T21:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
@@ -26,8 +22,8 @@
 {"timestamp":"2026-09-11T02:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-09-11T18:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
 {"timestamp":"2026-09-11T21:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
-{"timestamp":"2026-09-11T21:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
 {"timestamp":"2026-09-11T21:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
+{"timestamp":"2026-09-11T21:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"upriver"},
 {"timestamp":"2026-09-12T15:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
 {"timestamp":"2026-09-12T17:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-09-12T18:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
@@ -98,5 +94,9 @@
 {"timestamp":"2026-10-02T20:50:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
 {"timestamp":"2026-10-02T20:50:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-10-02T23:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
-{"timestamp":"2026-10-03T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"}
+{"timestamp":"2026-10-03T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
+{"timestamp":"2026-10-03T20:20:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
+{"timestamp":"2026-10-03T21:10:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
+{"timestamp":"2026-10-04T14:35:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
+{"timestamp":"2026-10-04T15:05:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"}
 ]
