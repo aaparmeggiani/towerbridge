@@ -1,6 +1,4 @@
 [
-{"timestamp":"2026-09-05T14:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
-{"timestamp":"2026-09-05T14:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-09-05T19:45:00Z","vessel_type":"Motor Vessel","vessel_name":"Le Champlain","direction":"downriver"},
 {"timestamp":"2026-09-08T10:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Raybel","direction":"upriver"},
 {"timestamp":"2026-09-08T10:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Raybel","direction":"downriver"},
@@ -98,5 +96,7 @@
 {"timestamp":"2026-10-07T18:10:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
 {"timestamp":"2026-10-07T18:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
 {"timestamp":"2026-10-08T14:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
-{"timestamp":"2026-10-08T15:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"}
+{"timestamp":"2026-10-08T15:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
+{"timestamp":"2026-10-08T18:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
+{"timestamp":"2026-10-08T19:20:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"}
 ]
