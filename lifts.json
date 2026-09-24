@@ -1,6 +1,4 @@
 [
-{"timestamp":"2026-09-24T12:00:00Z","vessel_type":"Sailing Barge","vessel_name":"Adieu","direction":"upriver"},
-{"timestamp":"2026-09-24T12:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Adieu","direction":"downriver"},
 {"timestamp":"2026-09-24T18:45:00Z","vessel_type":"Sailing Barge","vessel_name":"Gladys","direction":"downriver"},
 {"timestamp":"2026-09-24T19:35:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
 {"timestamp":"2026-09-24T20:25:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
@@ -68,5 +66,9 @@
 {"timestamp":"2026-11-27T19:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2026-11-27T20:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-11-27T23:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
-{"timestamp":"2026-11-28T00:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"}
+{"timestamp":"2026-11-28T00:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
+{"timestamp":"2026-12-05T18:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
+{"timestamp":"2026-12-05T19:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
+{"timestamp":"2026-12-05T23:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
+{"timestamp":"2026-12-06T00:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"}
 ]
