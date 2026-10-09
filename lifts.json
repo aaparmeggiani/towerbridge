@@ -1,9 +1,8 @@
 [
-{"timestamp":"2026-10-09T19:35:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
 {"timestamp":"2026-10-10T09:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
-{"timestamp":"2026-10-10T14:45:00Z","vessel_type":"Vessel","vessel_name":"14:45","direction":"upriver"},
 {"timestamp":"2026-10-10T14:45:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"upriver"},
-{"timestamp":"2026-10-10T15:15:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"downriver"},
+{"timestamp":"2026-10-10T14:45:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"upriver"},
+{"timestamp":"2026-10-10T14:45:00Z","vessel_type":"Vessel","vessel_name":"15:15","direction":"upriver"},
 {"timestamp":"2026-10-10T15:15:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"downriver"},
 {"timestamp":"2026-10-10T20:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
 {"timestamp":"2026-10-10T21:05:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
