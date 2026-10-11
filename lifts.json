@@ -1,8 +1,6 @@
 [
-{"timestamp":"2026-10-11T19:50:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"upriver"},
-{"timestamp":"2026-10-11T20:40:00Z","vessel_type":"Paddle Steamer","vessel_name":"Waverley","direction":"downriver"},
-{"timestamp":"2026-10-14T11:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-10-14T11:30:00Z","vessel_type":"Cable Ship","vessel_name":"Scheldemond I","direction":"upriver"},
+{"timestamp":"2026-10-14T11:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-10-14T12:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-10-15T15:45:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"upriver"},
 {"timestamp":"2026-10-15T15:45:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"upriver"},
