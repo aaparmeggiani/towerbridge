@@ -1,6 +1,4 @@
 [
-{"timestamp":"2026-10-17T10:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
-{"timestamp":"2026-10-17T11:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-10-17T15:30:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"upriver"},
 {"timestamp":"2026-10-17T16:15:00Z","vessel_type":"Sailing Barge","vessel_name":"Will","direction":"downriver"},
 {"timestamp":"2026-10-18T18:30:00Z","vessel_type":"Motor Vessel","vessel_name":"Dutch Master","direction":"upriver"},
