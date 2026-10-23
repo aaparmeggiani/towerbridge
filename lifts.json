@@ -1,4 +1,7 @@
 [
+{"timestamp":"2026-10-23T09:00:00Z","vessel_type":"Tower Bridge","vessel_name":"Maintenance Lift","direction":"upriver"},
+{"timestamp":"2026-10-23T10:00:00Z","vessel_type":"Tower Bridge","vessel_name":"Maintenance Lift","direction":"upriver"},
+{"timestamp":"2026-10-23T11:00:00Z","vessel_type":"Maintenance Lift","vessel_name":"12:00","direction":"unknown"},
 {"timestamp":"2026-10-24T23:30:00Z","vessel_type":"Motor Vessel","vessel_name":"Dutch Master","direction":"upriver"},
 {"timestamp":"2026-10-31T16:15:00Z","vessel_type":"Motor Vessel","vessel_name":"Dutch Master","direction":"upriver"},
 {"timestamp":"2026-11-06T18:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
