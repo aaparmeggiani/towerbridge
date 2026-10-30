@@ -1,8 +1,4 @@
 [
-{"timestamp":"2026-10-30T15:15:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"upriver"},
-{"timestamp":"2026-10-30T15:15:00Z","vessel_type":"Vessel","vessel_name":"15:15","direction":"upriver"},
-{"timestamp":"2026-10-30T15:45:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Peter","direction":"downriver"},
-{"timestamp":"2026-10-30T15:45:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"downriver"},
 {"timestamp":"2026-10-31T16:15:00Z","vessel_type":"Motor Vessel","vessel_name":"Dutch Master","direction":"upriver"},
 {"timestamp":"2026-10-31T23:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2026-11-01T00:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
