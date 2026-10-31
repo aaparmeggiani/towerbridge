@@ -1,5 +1,4 @@
 [
-{"timestamp":"2026-10-31T16:15:00Z","vessel_type":"Motor Vessel","vessel_name":"Dutch Master","direction":"upriver"},
 {"timestamp":"2026-10-31T23:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2026-11-01T00:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-11-02T18:15:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"upriver"},
