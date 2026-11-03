@@ -1,6 +1,4 @@
 [
-{"timestamp":"2026-11-03T22:15:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
-{"timestamp":"2026-11-03T23:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-11-05T22:30:00Z","vessel_type":"Motor Vessel","vessel_name":"Dutch Master","direction":"upriver"},
 {"timestamp":"2026-11-06T10:15:00Z","vessel_type":"Vessel","vessel_name":"18:45","direction":"upriver"},
 {"timestamp":"2026-11-06T19:30:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
