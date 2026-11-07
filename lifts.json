@@ -1,6 +1,4 @@
 [
-{"timestamp":"2026-11-06T23:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
-{"timestamp":"2026-11-06T23:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
 {"timestamp":"2026-11-09T12:30:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"upriver"},
 {"timestamp":"2026-11-09T13:00:00Z","vessel_type":"Marine Towage and Salvage/Tugboat","vessel_name":"VB Boluman","direction":"downriver"},
 {"timestamp":"2026-11-09T13:00:00Z","vessel_type":"Vessel","vessel_name":"Wednesday 11 November 2026","direction":"downriver"},
