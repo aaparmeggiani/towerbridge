@@ -1,5 +1,7 @@
 [
 {"timestamp":"2026-11-11T10:15:00Z","vessel_type":"Passenger Ship","vessel_name":"Edwardian","direction":"upriver"},
+{"timestamp":"2026-11-13T15:20:00Z","vessel_type":"Tall Ship","vessel_name":"Galeón Andalucía","direction":"upriver"},
+{"timestamp":"2026-11-13T15:50:00Z","vessel_type":"Tall Ship","vessel_name":"Galeón Andalucía","direction":"downriver"},
 {"timestamp":"2026-11-14T09:25:00Z","vessel_type":"Royal Shallop","vessel_name":"Jubilant","direction":"upriver"},
 {"timestamp":"2026-11-26T18:00:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"upriver"},
 {"timestamp":"2026-11-26T18:45:00Z","vessel_type":"Paddle Steamer","vessel_name":"Dixie Queen","direction":"downriver"},
